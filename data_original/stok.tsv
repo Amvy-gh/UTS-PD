@@ -1,0 +1,1523 @@
+
+  KODE       NAMA PRODUK                              LOKASI      QTY.STOK  UNIT 
+
+  A000001    ANATON TAB                               ETL1           12,00  STRIP 
+  A00001     ACTIVED HIJAU                            ETL3A           2,00  BTL 
+  A000012    APIALYS SYR 100 ML                       ETL3A           2,00  BTL 
+  A000014    ALKOHOL 1000 ML                          ETL3B           7,00  BTL 
+  A000016    ALLOPURINOL 300                          RAK2           40,00  STRIP 
+  A000018    ATORVASTATIN 10MG                        RAK2            6,00  STRIP 
+  A00004     ACYCLOVIR 200MG                          RAK2           13,00  STRIP 
+  A000040    MEFIX 500MG                              RAK1            9,00  STRIP 
+  A00005     ACYCLOVIR 400MG                          RAK2           21,00  STRIP 
+  A000066    ANDALAN KB FE                            RAK4           35,00  STRIP 
+  A000069    ALKOHOL SWEP                             ETL3B         103,00  PSG 
+  A00007     AFITSON NO.1 18 G                        ETL2            5,00  POT 
+  A000076    ALOFAR 300MG                             RAK1           20,00  STRIP 
+  A000078    ARKAVIT BOX                              ETL1           10,00  STRIP 
+  A00008     AKURAT                                   ETL3B          37,00  PCS 
+  A00009     ALBOTHYL 10ML                            RAK4            1,00  BTL 
+  A00010     ALBOTHYL 5ML                             RAK4            3,00  BTL 
+  A00013     ALLERON                                  ETL1           24,00  STRIP 
+  A00014     ALLETROL TM 5 ML                         RAK4            6,00  FLS 
+  A00015     ALLOPURINOL 100MG                        RAK2            6,00  STRIP 
+  A00016     ALPARA                                   ETL1           50,00  STRIP 
+  A000177    ANAK SUMANG 200'S                        ETL1          180,00  SACH 
+  A00018     AMBROXOL 30MG                            RAK2           39,00  STRIP 
+  A00019     AMLODIPINE 10MG                          RAK2           81,00  STRIP 
+  A00020     AMLODIPINE 5MG                           RAK2           40,00  STRIP 
+  A000209    THERMOMETER AVICO                        ETL5B           1,00  PCS 
+  A00021     AMOXICILIN 500MG                         RAK2          393,00  STRIP 
+  A00023     AMOXSAN 500MG                            RAK1           80,00  TAB 
+  A00026     AMPICILIN 500MG                          RAK2            6,00  STRIP 
+  A00027     ANAKONIDIN OBH 60ML                      ETL3A           2,00  BTL 
+  A00028     ANAKONIDIN SYR 60ML                      ETL3A           1,00  BTL 
+  A00029     ANDALAN LAKTASI                          RAK4           11,00  STRIP 
+  A00032     ANTANGIN ANAK                            ETL5B          29,00  SACH 
+  A00033     ANTANGIN CAIR                            ETL5B          74,00  SACH 
+  A00034     ANTANGIN TAB                             ETL5B          13,00  STRIP 
+  A00035     ANTASIDA DOEN                            ETL1          420,00  TAB 
+  A00036     ANTIMO ANAK JERUK                        ETL1           10,00  SACH 
+  A00037     ANTIMO ANAK STRAW                        ETL1            5,00  SACH 
+  A00038     ANTIMO TAB                               ETL1           71,00  STRIP 
+  A00039     ASAM MEFENAMAT 500MG                     RAK2           44,00  STRIP 
+  A00042     ACYCLOVIR 5% CR                          RAK3           16,00  TUBE 
+  A00043     ANDALAN CO 12'S                          ETL3B          13,00  DUS 
+  A00047     APIALYS DROPS                            ETL3A           2,00  BTL 
+  A00048     AVAIL HIJAU                              ETL5B          11,00  PCS 
+  A00049     AVAIL BIRU                               ETL5B          12,00  PCS 
+  A00050     AMBEVEN                                  ETL1           15,00  STRIP 
+  A00053     AUGENTONIC 5 ML                          ETL2            4,00  FLS 
+  A00055     ALOFAR 100MG                             RAK1            5,00  STRIP 
+  A00056     ALKOHOL 70% 300ML                        ETL3B           6,00  BTL 
+  A00060     ARMSLING M                               ETL4            2,00  PCS 
+  A00072     ASEPSO                                   ETL5B          10,00  PCS 
+  A00073     ANDALAN TESTPACK AMP                     ETL3B          26,00  AMPLOP 
+  A00077     ACLONAC GEL 20G                          ETL2            1,00  BOX 
+  A00083     ANTASIDA DOEN SUSP 60ML                  ETL1            7,00  BTL 
+  A000897    ALERZIN TAB                              RAK1           17,00  STRIP 
+  A00091     ARMACORT                                 RAK3            9,00  TUBE 
+  A00092     ALLERIN EXP 60 ML                        ETL3A           2,00  BTL 
+  A00100     ALKOHOL 70% 100ML                        ETL3B           6,00  BTL 
+  A00101     AUTOCLICK + JARUM                        MEJA            3,00  PCS 
+  A00103     AQUA MARIS DAILY NASSAL 30ML             ETL2            2,00  BTL 
+  A00107     ALLERGEN TAB                             ETL1            5,00  STRIP 
+  A0011      ANTIS BTL 60ML                           ETL5B          17,00  BTL 
+  A00110     ANTIS SPRAY 55ML                         ETL5B          11,00  BTL 
+  A00111     ADEM SARI CHING KU                       SC             11,00  KLG 
+  A00112     ANACETIN SYR                             ETL3A           4,00  BTL 
+  A00116     ASIFIT 700MG KAPLET                      ETL5A           2,00  STRIP 
+  A00118     ANASTAN FORTE                            RAK1           12,00  STRIP 
+  A00121     ACNES GEL                                ETL2            4,00  TUBE 
+  A00122     ADEM SARI SENSACOOLS                     ETL4           29,00  SACHET 
+  A00123     VITAMIN C 50MG                           ETL1            7,00  STRP 
+  A00126     ACNOL 10GR                               ETL2            2,00  TUBE 
+  A00131     AMBROXOL SYR                             RAK4            3,00  BTL 
+  A00132     AMOXSAN DROP                             RAK4            1,00  BTL 
+  A00133     ACNOL LOTION 10ML                        ETL2            1,00  PCS 
+  A00135     ASMASOLON                                ETL1           33,00  STRIP 
+  A00138     ACNES FC CREAMYWASH                      ETL2            4,00  TUBE 
+  A00141     ASICUM                                   ETL2            2,00  BTL 
+  A00142     ALBENDAZOLE KF                           RAK2            2,00  STRIP 
+  A00146     ACTIVCLEAR                               ETL2            1,00  TUBE 
+  A00147     ACARBOSE                                 RAK2           10,00  STRIP 
+  A00148     AKURAT COMPACT                           ETL3B           2,00  PCS 
+  A00149     ANAKONIDIN HERBAL 60ML                   ETL3A           2,00  BTL 
+  A00151     AGARILLUS DROP                           ETL2            3,00  BTL 
+  A00154     ANAKONIDIN ME 60ML                       ETL3A           3,00  BTL 
+  A00155     ANDALAN FRESH INTIMATE WASH              ETL5B           2,00  BTL 
+  A00158     ACIFAR                                   RAK3            7,00  TUBE 
+  A00160     ATORVASTATIN 20MG                        RAK2           10,00  STRIP 
+  A00161     ACETYLCYSTEINE 200MG                     RAK2            7,00  STRIP 
+  A00164     AMUNIZER                                 ETL5B          88,00  SCHET 
+  A00165     AGARILLUS                                ETL2            1,00  BTL 
+  A00166     AZITHROMYCIN 200MG SYR 5ML               RAK4            1,00  BTL 
+  A00167     ACITRAL 10'S                             ETL1            4,00  STRIP 
+  A00168     ARKAVIT C                                ETL1            8,00  STRIP 
+  A00170     ACITRAL SUSPENSI 120ML                   ETL1            1,00  BTL 
+  A00172     ANYTIME EARLOOP CHILD F.MASK 5'S         ETL3B           1,00  PACK 
+  A00173     ANYTIME VIRUSGUARD 4D 3'S                ETL3B           2,00  PACK 
+  A00174     ANTIS GEL 30ML                           ETL5B           5,00  BTL 
+  A00175     ANAKONIDIN 30ML                          ETL3A           1,00  BTL 
+  A00176     ANAKONIDIN OBH 30ML                      ETL3A           6,00  BTL 
+  A00177     ACTIV WATER                              SC             11,00  BTL 
+  A00178     ANDALAN CO 3'S                           ETL3B          19,00  PCS 
+  B0000001   BACTODERM 5GR                            RAK3            2,00  TUBE 
+  B0000002   BALSEM GELIGA 10 GR                      ETL2            7,00  POT 
+  B0000003   BALSEM GELIGA 20 GR                      ETL2            6,00  POT 
+  B0000004   BALSEM GELIGA 40 GR                      ETL2            1,00  POT 
+  B0000006   BALSEM LANG 10 GR                        ETL2            4,00  POT 
+  B0000007   BALSEM LANG 20 GR                        ETL2            5,00  POT 
+  B0000009   BALSEM TJIN TJAU 20 G                    ETL2            1,00  POT 
+  B00000100  BIOLYSIN SYR 100ML                       ETL2            2,00  BTL 
+  B00000120  BROADAMOX                                RAK1           14,00  STRIP 
+  B00000125  BENEURON DRAGEE                          ETL1           14,00  STRIP 
+  B0000013   BECOM-C                                  ETL1           24,00  STRIP 
+  B0000018   BENZOLAC CL                              RAK3            1,00  TUBE 
+  B0000019   BETADINE FEMINIME                        ETL5B           2,00  BTL 
+  B00000198  BIFERCE                                  ETL5B           3,00  BTL 
+  B0000020   BETADINE GARGLE 190ML                    ETL2            1,00  BTL 
+  B0000022   BETADINE OINT 10G                        ETL3B           4,00  TUBE 
+  B0000023   BETADINE OINT 5G                         ETL3B           1,00  TUBE 
+  B0000025   BETADINE SOL 15 ML                       ETL3B           4,00  BTL 
+  B0000026   BETADINE SOL 30 ML                       ETL3B           5,00  BTL 
+  B0000027   BETADINE SOL 5 ML                        ETL3B           8,00  BTL 
+  B0000028   BETAHISTINE                              RAK2           18,00  STRIP 
+  B0000029   BETASON CR 5G                            RAK3            1,00  TUBE 
+  B0000030   BETASON N CR 5G                          RAK3            5,00  TUBE 
+  B0000031   BIOGESIC                                 ETL1           29,00  STRIP 
+  B0000032   BIOLYSIN KIDS ANGGUR                     ETL3A           1,00  BTL 
+  B0000033   BIOLYSIN KIDS JERUK                      ETL3A           3,00  BTL 
+  B0000034   BIOLYSIN KIDS STRAW                      ETL3A           2,00  BTL 
+  B0000035   BIOPLACENTON 15GR                        RAK3            6,00  TUBE 
+  B0000036   BISOLVON EXTRA                           ETL3A           4,00  BTL 
+  B0000038   BISOPROLOL 5MG                           RAK2           20,00  STRIP 
+  B0000039   BODREX                                   ETL1           43,00  STRIP 
+  B0000040   BODREX EXTRA                             ETL1           19,00  STRIP 
+  B0000041   BODREX FB DAHAK                          ETL1           29,00  STRIP 
+  B0000042   BODREX FB KERING                         ETL1           28,00  STRIP 
+  B0000043   BODREX MIGRA                             ETL1           24,00  STRIP 
+  B0000044   BODREXIN DEMAM  SYR                      ETL3A           5,00  BTL 
+  B0000045   BORRAGINOL N SUPPO                       KULKAS          6,00  SUPP 
+  B0000047   BRAITO ORIGINAL                          ETL2            1,00  FLS 
+  B0000048   BUBUK PK                                 ETL2           29,00  POT 
+  B0000050   BYE BYE FEVER ANAK                       ETL5B          26,00  SACH 
+  B0000053   BABY COUGH                               ETL3A           8,00  BTL 
+  B0000054   BRONCHITIN SYR                           ETL3A           3,00  BTL 
+  B0000057   BYE BYE FEVER BAYI                       ETL5B          29,00  LEMBAR 
+  B0000058   BATUGIN 120 ML                           ETL2            1,00  BTL 
+  B0000061   BATUGIN 300ML                            ETL5B           1,00  BTL 
+  B0000065   BUFACORT N 5G                            RAK3            8,00  TUBE 
+  B0000066   BINARI                                   ETL5B           9,00  SCH 
+  B0000067   BETADINE PLESTER JUNIOR                  ETL3B           3,00  PCS 
+  B0000069   BRAITO TEARS                             ETL2            3,00  FLS 
+  B0000072   BETAMETHASON 0.1%                        RAK3           22,00  TUBE 
+  B0000073   BODREXIN  FB PE ANAK SYR (KERING)        ETL3A           2,00  BTL 
+  B0000074   BUFANTACID                               ETL1           12,00  STRIP 
+  B0000076   BUFANTACID FORTE SYR                     ETL1            7,00  BTL 
+  B0000078   BALPIRIK EXTRA MERAH                     ETL2            2,00  POT 
+  B0000081   BIOLYSIN SMART 60ML                      ETL3A           1,00  BTL 
+  B0000082   BETADINE SABUN CAIR 100ML                ETL5B           3,00  BTL 
+  B0000088   BODREXIN FB PE ANAK SYR (DAHAK)          ETL3A           1,00  BTL 
+  B0000089   BBK 80GR                                 ETL3B           4,00  BTL 
+  B0000090   BETADINE SOL 60ML                        ETL3B           4,00  BTL 
+  B0000091   BENECOL ORANGE                           SC              3,00  BTL 
+  B0000097   BALSEM LANG 40GR                         ETL2            7,00  POT 
+  B0000101   BORRAGINOL S OINT                        RAK3            1,00  TUBE 
+  B0000103   BEVALEX CR                               RAK3           12,00  TUBE 
+  B0000108   BEAR BRAND                               SC             41,00  KLG 
+  B0000109   BUFACARYL                                RAK1            9,00  STRIP 
+  B0000118   BRONKRIS TAB                             ETL1           32,00  STRIP 
+  B0000193   BIOMEGA                                  RAK1           11,00  STRIP 
+  B0000199   BODREX FB KERING SYR (DEWASA)            ETL3A           2,00  BTL 
+  B00002     BRONCHITIN FLU SYR 60ML                  ETL3A           6,00  BTL 
+  B0000200   BODREX PE DAHAK SYR (DEWASA)             ETL3A           5,00  BTL 
+  B0000202   BRONKRIS SYR                             ETL3A           2,00  BTL 
+  B0000204   BENZOLAC GEL 2.5% 5GR                    RAK3            1,00  TUBE 
+  B0000214   BEDAK PIGEON 200GR                       ETL3B           2,00  PCS 
+  B0000216   BATSARIA 10ML                            ETL2            3,00  BTL 
+  B0000220   BISACODYL TAB 5MG                        ETL1            3,00  STRIP 
+  B0000224   BMT PHP 400GR                            ETL5A           1,00  BOX 
+  B0000226   JOHNSONS BABY OIL 200ML                  ETL2            3,00  BTL 
+  B0000234   BEJO JAHE MERAH                          ETL5B          62,00  SACH 
+  B0000236   BECOM-ZET                                ETL1           20,00  STRIP 
+  B0000237   BECEFORT 4'S                             ETL2           23,00  STRIP 
+  B0000238   BENZOLAC GEL 5% 5GR                      RAK3            2,00  TUBE 
+  B0000241   BIMACYL                                  ETL1           12,00  STRIP 
+  B0000266   BINTAMOX TAB                             RAK1           10,00  STRIP 
+  B0000268   BINTAMOX SYR                             RAK4            3,00  BOTOL 
+  B0000270   BRALIFEX EYE DROP                        RAK4            1,00  BTL 
+  B0000271   BETADINE PLASTER WATERPROOF              ETL3B           1,00  PCS 
+  B0000272   BOOST D 1000 IU                          ETL1           45,00  STRIP 
+  B0000273   BODREXIN TAB 4X4'S                       ETL1            6,00  STRIP 
+  B0000274   BELSOAP 65GR                             ETL2            2,00  PCS 
+  B0000275   BIOMAG TAB                               ETL1           17,00  STRIP 
+  B0000276   BEBITHEN KRIM 20GR                       ETL2            1,00  TUBE 
+  B0000277   BREAST PUMP SET RELIABLE 9910            ETL5B           1,00  PCS 
+  B000030    BROCHIFAR KPT                            ETL1           17,00  STRIP 
+  B000056    BROCHITIN TAB                            RAK1            4,00  STRIP 
+  B000200    BETADINE VAGINAL 100ML                   ETL5B           1,00  BTL 
+  B000201    BETADINE THROAT SPRAY                    ETL5B           1,00  BTL 
+  B00026     BABY OIL WHITE TELON PIGEON 115ML        ETL2            5,00  BTL 
+  C0000001   CALADINE LOT 95ML                        ETL3B           6,00  BTL 
+  C0000002   CALADINE LOT 60ML                        ETL3B           5,00  BTL 
+  C0000003   CALADINE TALK 100G                       ETL3B           6,00  BTL 
+  C0000004   CALADINE TALK 60G                        ETL3B           6,00  BTL 
+  C0000006   CANDISTIN                                RAK4            2,00  BTL 
+  C0000009   CAPTOPRIL 12,5MG                         RAK2           60,00  STRIP 
+  C0000010   CAPTOPRIL 25MG                           RAK2           49,00  STRIP 
+  C00000101  COOLANT 350ML                            SC              5,00  BTL 
+  C00000102  COOLING 5 PLUS ORANGE                    ETL2            8,00  BTL 
+  C00000105  COTTON BUD                               ETL5B           6,00  PACK 
+  C0000012   CATAFLAM 25MG                            RAK1           72,00  TAB 
+  C0000013   CATAFLAM 50MG                            RAK1          177,00  TAB 
+  C0000014   CATAFLAM D 50MG                          RAK1            4,00  TAB 
+  C00000143  CANDESARTAN 16MG                         RAK2            2,00  STRIP 
+  C0000015   CATARLENT 5ML                            RAK4            2,00  FLS 
+  C00000177  CHILI PLAST 2.5CM                        ETL3B           9,00  PCS 
+  C0000018   CEFADROXIL 500MG                         RAK2            5,00  STRIP 
+  C0000021   CEFIXIME 100MG CAP                       RAK2           10,00  STRIP 
+  C0000023   CENDO LYTEERS 15ML                       ETL2            4,00  FLS 
+  C0000025   CENDO TIMOL 0,5%MG                       RAK4            3,00  FLS 
+  C0000027   CENDO XITROL MINI DOSE                   RAK4            2,00  PACK 
+  C0000028   CENDO XITROL TM 5ML                      RAK4            5,00  FLS 
+  C0000031   CEREBROFORT GOLD                         ETL3A           3,00  BTL 
+  C0000032   CETIRIZINE 10MG                          RAK2           52,00  STRIP 
+  C0000033   CHLORAMFECORT H CR 10G                   RAK3            3,00  TUBE 
+  C0000035   CINOLON CR                               RAK3            6,00  TUBE 
+  C0000037   CIPROFLOXACIN 500MG                      RAK2            9,00  STRIP 
+  C0000040   CLINDAMYCIN 150MG                        RAK2            5,00  STRIP 
+  C0000041   CLINDAMYCIN 300MG                        RAK2            3,00  STRIP 
+  C0000042   CLINOVIR CR 5G                           RAK3            1,00  TUBE 
+  C0000043   COD LIVER OIL                            ETL5B           2,00  BTL 
+  C0000046   CONTREXIN                                ETL1            3,00  STRIP 
+  C0000048   CORTIDEX 0,5MG                           RAK1          170,00  TAB 
+  C0000051   COUNTERPAIN 15 GR                        ETL2            5,00  TUBE 
+  C0000052   COUNTERPAIN 30                           ETL2            2,00  TUBE 
+  C0000053   COUNTERPAIN 5 GR                         ETL2            5,00  TUBE 
+  C0000054   COUNTERPAIN 60                           ETL2            1,00  TUBE 
+  C0000055   CTM PIM                                  ETL1            3,00  STRIP 
+  C0000058   CURCUMA IMUNS                            ETL3A           1,00  BTL 
+  C0000059   CURCUMA PLUS DHA JERUK                   ETL3A           2,00  BTL 
+  C0000060   CURCUMA PLUS DHA STRAW                   ETL3A           1,00  BTL 
+  C0000063   COUNTERPAIN COOL 30GR                    ETL2            1,00  TUBE 
+  C0000065   CEREBROFORT GOLD STRAW                   ETL3A           3,00  BTL 
+  C0000066   COLDREXIN SYR                            ETL3A           4,00  BTL 
+  C0000067   COMBANTRIN 10ML                          ETL1           17,00  BTL 
+  C0000070   CAVIPLEX TAB                             ETL1          286,00  STRIP 
+  C0000071   CANESTEN 5 GR                            ETL2            7,00  TUBE 
+  C0000072   CALCIFAR PLUS                            ETL1           15,00  STRIP 
+  C0000075   COMBANTRIN 250MG                         ETL1           20,00  STRIP 
+  C0000076   CAVIPLEX SYR                             ETL3A           3,00  BTL 
+  C0000078   CALORTUSIN                               ETL1           28,00  STRIP 
+  C0000079   COPAL CHEST 25 GR                        ETL2            1,00  TUBE 
+  C0000080   CURVIT SYR 60 ML                         ETL3A           2,00  BTL 
+  C0000082   CURCUMA PLUS GROW JRK                    ETL4            1,00  BTL 
+  C0000083   CURVIT CL                                ETL4            1,00  BTL 
+  C0000084   CURCUMA FCT TAB                          ETL1           15,00  BLISTER 
+  C0000086   CDR JERUK                                ETL3A           4,00  BTL 
+  C0000096   CEREBROFORT GOLD (B)                     ETL3A           3,00  BTL 
+  C0000097   COUNTERPAIN 120GR                        ETL2            1,00  TUBE 
+  C0000099   CHILI PLAST                              ETL3B          29,00  ROL 
+  C00001     CALCID PLUS EFF                          ETL5B           2,00  BTL 
+  C0000100   CALADINE BABY POW 50GR                   ETL3B           3,00  BTL 
+  C0000101   COOLING 5 SPRAY                          ETL2            8,00  BTL 
+  C0000103   CENTABIO GEL                             RAK3            5,00  TUBE 
+  C0000104   CHILI PLAST KECIL                        ETL3B          36,00  ROL 
+  C0000106   CD SUNAT                                 ETL5B           4,00  PCS 
+  C0000107   CALADINE BABY 100GR                      ETL3B           3,00  BTL 
+  C0000110   CATAFLAM FAST 50MG                       RAK1            6,00  SACH 
+  C0000111   CUSTODIOL                                ETL1            7,00  STRIP 
+  C0000113   COPARCETIN SYR                           ETL3A           3,00  BTL 
+  C0000115   COPARCETIN KIDS                          ETL3A           3,00  BTL 
+  C0000122   CDR JERUK 15'S                           ETL3A           3,00  BTL 
+  C0000127   CARBIDU 0,5                              RAK1           35,00  STRIP 
+  C0000129   COLFIN TAB                               ETL1            7,00  STRIP 
+  C0000132   CITOCETINE 60ML                          ETL3A           2,00  BTL 
+  C0000139   CATARLENT MINI DOSE                      RAK4            1,00  STRIP 
+  C0000140   CHILD GO COKLAT 140ML                    SC              9,00  BTL 
+  C0000141   CHILD GO STRAW 140ML                     SC             11,00  BTL 
+  C0000142   CANDESARTAN 8MG                          RAK2            4,00  STRIP 
+  C0000152   CHIL GO VANILA 140ML                     SC              7,00  BTL 
+  C0000161   CIMORY                                   SC              6,00  BTL 
+  C0000162   CENDO LYTEERS MD                         ETL2            1,00  STRIP 
+  C0000164   CIMORY KOTAK                             SC              1,00  KOTAK 
+  C0000165   CIMORY MINI                              SC             20,00  BTL 
+  C0000166   CEFADROXIL SYR 60ML                      RAK4            1,00  BTL 
+  C0000167   CAPTOPRIL 50MG                           RAK2           37,00  STRIP 
+  C0000169   CARBIDU 0.75MG                           RAK1           25,00  STRIP 
+  C0000170   COPARCETIN TABLET                        ETL1           15,00  STRIP 
+  C0000176   COD LIVER OIL 50'S                       ETL5A           4,00  BTL 
+  C0000178   CALCIFAR                                 ETL1           13,00  STRIP 
+  C0000179   CEFADROXIL DS 250MG                      RAK4            1,00  BTL 
+  C0000183   CEFIXIME 200MG KAP                       RAK2           12,00  STRIP 
+  C0000187   CETIRIZINE SYR 60ML                      RAK4            2,00  BTL 
+  C0000188   C1000                                    ETL5B         125,00  SCHET 
+  C0000189   CAL-95                                   ETL1            2,00  STRIP 
+  C0000190   CINOLON N CR 5GR                         RAK3            5,00  TUBE 
+  C0000192   CAREPLUS SEPTI WIPES                     ETL5B           2,00  PCS 
+  C0000193   CAREPLUS HIFRESH 5'S                     ETL5B           8,00  PCS 
+  C0000194   CLOPIDOGREL TAB 75MG                     RAK2            2,00  STRIP 
+  C0000196   CIMORY SQUEEZE                           SC             16,00  PCS 
+  C0000198   CHILGO MADU 300GR                        ETL5A           1,00  BOX 
+  C0000200   CETIRIZINE DROPS                         RAK4            1,00  BTL 
+  C0000204   CAVIPLEX D TAB                           ETL1           12,00  STRIP 
+  C0000205   CAVIPLEX CDEZ                            ETL1           41,00  STRIP 
+  C0000207   CDR STRIP                                ETL5B          12,00  STRIP 
+  C000038    COTTONBUD SWAP 200'S                     ETL5B           2,00  BTL 
+  C000050    CIMORY UHT 250                           SC              5,00  BTL 
+  C000137    CURVIT KAPLET                            ETL1            4,00  STRIP 
+  C000140    CANESTEN CR 10G                          ETL2            6,00  TUBE 
+  C000142    RELIABLE COTTON BUDS DWS 100'S           ETL5B           2,00  BTL 
+  C000144    C2FIT                                    ETL1           40,00  TAB 
+  C000145    CLOBETASOL PROPIONATE CR 0,05%           RAK3            1,00  TUBE 
+  C000146    CLOBETASOL PROPIONATE SALEP 0,05%        RAK3            1,00  TUBE 
+  C000147    CTM STRIP                                ETL1            6,00  STRIP 
+  C000150    CIMORY UHT 125                           SC             17,00  PCS 
+  C000200    CATAFLAM DROP 15ML                       RAK4            1,00  BTL 
+  D0000002   DECOLGEN                                 ETL1            8,00  STRIP 
+  D00000020  DIAPET 10'S                              ETL1           16,00  STRIP 
+  D0000005   DEGIROL                                  ETL5B           6,00  STRIP 
+  D000001    DEMACOLIN SYR 60ML                       ETL3A           1,00  BTL 
+  D0000010   DEXAMETHASONE 0,5MG                      RAK2           81,00  STRIP 
+  D0000011   DEXAMETHASONE 0,75MG                     RAK2           44,00  STRIP 
+  D0000012   DEXANTA SYR                              ETL1            6,00  BTL 
+  D0000013   DEXTAMINE                                RAK1          110,00  TAB 
+  D0000014   DEXTEEM                                  ETL1           11,00  STRIP 
+  D0000015   DEXTEEM PLUS                             RAK1          110,00  TAB 
+  D0000016   DEXTRAL                                  ETL1           72,00  STRIP 
+  D000002    DEMACOLIN TAB                            ETL1           20,00  STRIP 
+  D0000020   DOMPERIDON 10MG                          RAK2           15,00  STRIP 
+  D0000021   DRAGON MENTHOL HSP                       ETL2           12,00  PCS 
+  D0000024   DULCOLAX                                 ETL1           22,00  STRIP 
+  D0000025   DUREX EXTRASAFE 3'S                      ETL3B           1,00  BOX 
+  D0000026   DUREX FEATHERLITE 3'S                    ETL3B           1,00  BOX 
+  D0000031   DIABETASOL SWEETENER 25'S                ETL5B           2,00  BOX 
+  D0000034   DIANE KB                                 RAK4            1,00  BOX 
+  D0000035   DUMOCYCLINE 250MG                        RAK1          490,00  KAP 
+  D0000036   DULCOLAX ANAK SUPPO                      KULKAS          7,00  SUPPO 
+  D0000037   DIPROSONE OV                             RAK3            1,00  TUBE 
+  D0000038   DIAPET NR                                ETL1           10,00  STRIP 
+  D0000039   DENTASOL GIGI                            ETL2            4,00  TUBE 
+  D0000041   DACTARIN CR 10G                          ETL2            2,00  TUBE 
+  D0000053   DIAPET ANAK                              ETL1           23,00  SACH 
+  D0000054   DECADRYL SYR                             ETL3A           4,00  BTL 
+  D0000057   DOT DODO 60ML                            ETL5B           4,00  BTL 
+  D0000059   DULCOLAX 10'S                            ETL1            7,00  BLISTER 
+  D0000064   DETTOL LIQ 250ML                         ETL5B           3,00  BTL 
+  D0000071   DRAMAMINE                                RAK1           10,00  STRIP 
+  D0000072   DEXANTA TAB                              ETL1           26,00  STRIP 
+  D0000075   DETTOL LIQ 100ML                         ETL5B           5,00  BTL 
+  D0000076   DRAGON MENTHOL HSB                       ETL2           11,00  PCS 
+  D0000077   DARSI KAPSUL                             ETL5B           2,00  BOX 
+  D0000078   DULCOLAK DEWASA SUPPO                    KULKAS          4,00  SUPPO 
+  D0000082   DIPROGENTA                               RAK3            1,00  TUBE 
+  D0000086   DANASONE 0,5                             RAK1           27,00  STRIP 
+  D0000087   DEHISTA                                  ETL1           28,00  STRIP 
+  D0000090   DARYANT-TULLE                            KULKAS         14,00  SACH 
+  D0000091   DIAPET SYR 60ML                          ETL1            2,00  BTL 
+  D0000097   DETTOL LIQ 50ML                          ETL5B           4,00  BTL 
+  D0000098   DOT PIGEON 120ML                         ETL5B           5,00  BTL 
+  D0000099   DOT PIGEON 240ML                         ETL5B           2,00  BTL 
+  D0000100   DE COUGH MENTHOL 60ML                    ETL3A           1,00  BTL 
+  D0000106   DEXIGEN CR                               RAK3            6,00  TUBE 
+  D0000170   DIABETASOL COK 1KG                       ETL5A           1,00  BOX 
+  D0000171   DOMPERIDON SUSP 60ML                     RAK4            3,00  BTL 
+  D0000173   DESOXIMETHASONE 0.25 CR 15G              RAK3           13,00  TUBE 
+  D0000179   DETTOL SOAP 65G                          ETL5B           3,00  PCS 
+  D0000180   DERMAFIX 10X25                           ETL3B           8,00  PCS 
+  D0000184   DIVOLTAR 50MG                            RAK1           19,00  STRIP 
+  D0000189   DEGIROL STRIP                            ETL5B           6,00  STRIP 
+  D0000192   DOT RELIABLE 125ML                       ETL5B           3,00  BTL 
+  D0000195   DRAGON MINYAK SEREH 30ML                 ETL2            3,00  BTL 
+  D0000196   DERMATIX ULTRA GEL 5GR                   ETL2            1,00  TUBE 
+  D0000198   DRAGON MINYAK SEREH 100ML                ETL2            3,00  BTL 
+  D0000200   DICLOFENAC DIETHYLAMINE 20GR             ETL2            1,00  TUBE 
+  D0000204   DICOM TAB                                ETL1           24,00  STRIP 
+  D0000207   DETTOL LIQ 495ML                         ETL5B           2,00  BTL 
+  D0000210   DICLOFENAC DIETHYLAMINE 50GR             ETL2            1,00  TUBE 
+  D0000212   DUREX LOVE 12'S                          ETL3B           2,00  PCS 
+  D0000216   DAY DAY SARANG BURUNG 300ML              SC              2,00  KLNG 
+  D000209    DETTOL SABUN CUCI TGN                    ETL5B           2,00  BTL 
+  E0000002   ELTAZON                                  RAK1          300,00  TAB 
+  E0000003   ENBATIC POW                              RAK3           27,00  SACH 
+  E0000004   ENERVONCE (30)                           ETL1            2,00  BTL 
+  E0000005   ENKASARI                                 ETL2            2,00  BTL 
+  E0000006   ENTRASOL GOLD CKLT 185G                  ETL5A           1,00  BOX 
+  E0000007   ENTRASOL GOLD VNLA 185G                  ETL5A           1,00  BOX 
+  E0000010   ENTROSTOP ANAK                           ETL1           18,00  SACH 
+  E0000011   ENTROSTOP TAB                            ETL1           19,00  STRIP 
+  E0000013   EPEXOL SYR 120ML                         RAK4            3,00  BTL 
+  E0000015   ERLAMYCETIN PLUS TM                      RAK4            7,00  TUBE 
+  E0000016   ERLAMYCETIN SM                           RAK4            7,00  TUBE 
+  E0000017   ESTER C (30)                             ETL1            3,00  BTL 
+  E0000018   EVER E (12)                              ETL5B           4,00  STRIP 
+  E0000020   ENERVON C (4')                           ETL1           33,00  STRIP 
+  E0000021   ERLAMICETIN TT                           RAK4            6,00  BTL 
+  E0000023   ESTER C 4'S                              ETL1           28,00  STRIP 
+  E0000028   EVER E 30'S                              ETL5B           6,00  BTL 
+  E0000030   EYEFRESH MD                              ETL2            2,00  STRIP 
+  E0000032   ELKANA TAB                               ETL1           11,00  STRIP 
+  E0000033   EPEXOL DROP                              RAK4            2,00  BTL 
+  E0000034   ELKANA SYR                               ETL3A           2,00  BTL 
+  E0000035   ELKANA CL EMULSI                         ETL3A           1,00  BTL 
+  E0000037   EPEXOL TAB                               RAK1           17,00  STRIP 
+  E0000039   EMPENG S050                              ETL5B           5,00  PCS 
+  E0000040   EVER E                                   ETL5B          11,00  STRIP 
+  E0000041   EM KAPSUL '12                            ETL5B           2,00  BOX 
+  E0000044   ESPERSON 5G                              RAK3            1,00  TUBE 
+  E0000047   EJIAO MADU CINA                          ETL1            9,00  BTL 
+  E0000049   ETAFLUSIN TAB                            ETL1           14,00  STRIP 
+  E0000051   EPERISON HCL TAB                         RAK2           11,00  STRIP 
+  E0000055   ETADEX 0,5                               RAK1            5,00  STRIP 
+  E0000066   ERPHAFILIN 100'S                         ETL1          200,00  TABLET 
+  E0000067   EMPENG PIGEON STEP 3                     ETL5B           1,00  PICIS 
+  E0000070   ERPHAMAZOL 1% 5GR                        ETL2            4,00  TUBE 
+  E0000071   ERPHA ALLERIL 2% 5GR                     ETL2            3,00  TUBE 
+  E0000074   ETADEX 0,75MG                            RAK1           24,00  STRIP 
+  E0000080   EGOJI GUMMY JERUK                        ETL4           11,00  SACH 
+  E0000081   EGOJI GUMMY STRAW                        ETL4           10,00  SACH 
+  E0000082   EYEVIT TAB                               ETL2            5,00  STRIP 
+  E0000084   EYEVIT SYR 60ML                          ETL2            1,00  BTL 
+  E0000089   ERLAMOL SYR 60ML                         ETL3A           5,00  BTL 
+  E0000099   EPIMAXX                                  ETL3B           2,00  BOX 
+  E00001     ELSIRON KAPT                             ETL1            3,00  STRIP 
+  E0000100   ENBATIC SK 10gr                          RAK3            5,00  TUBE 
+  E0000102   ENTRASOL PLATINUM VANILA 800GR           ETL5A           1,00  KLNG 
+  E0000105   ENAPLEX-C 6'S                            ETL1            1,00  STRIP 
+  E0000106   EMPENG PIGEON MINILIGHT STEP 2           ETL5B           5,00  PCS 
+  E0000107   ESPERSON 15GR                            RAK3            2,00  TUBE 
+  E0000108   ERPEPSA SUSPENSI 100ML                   RAK4            1,00  BTL 
+  E0000109   ERPHAMOL DROPS 15ML                      ETL3A           3,00  BTL 
+  E0000110   ERPHAMOL SYR 60ML                        ETL3A           2,00  BTL 
+  E000020    ETABION                                  ETL1            7,00  STRIP 
+  E000072    ERPHAFLAM TAB                            RAK1           22,00  STRIP 
+  E000088    ENTRASOL ACTIVE VAN LATTE 160GR          ETL5A           1,00  BOX 
+  E000090    EMPENG RELIABLE STEP1                    ETL5B           3,00  PCS 
+  E000092    ESTER C KIDS 30'S                        ETL4            1,00  BTL 
+  E000093    ERICFIL 100MG                            RAK1            4,00  TAB 
+  E000097    E-CARE POPOK DEWASA M                    ETL5B           1,00  PCS 
+  E00013     EUCA INH                                 ETL2            6,00  PCS 
+  E000370    ETAMOX 500MG                             RAK1            7,00  STRIP 
+  E000371    ETAMOX SYR                               RAK4            1,00  BTL 
+  F00000001  FERMOL SYR 60ML                          ETL3A           1,00  BTL 
+  F00000010  FLUIMUCIL 600MG EFF 10'S                 RAK4            1,00  BOX 
+  F0000002   FARGOXIN                                 RAK1           11,00  STRIP 
+  F0000004   FARMOTEN 25MG                            RAK1           12,00  STRIP 
+  F0000005   FATIGON                                  ETL1           22,00  STRIP 
+  F0000007   FATIGON SPIRIT                           ETL1           17,00  STRIP 
+  F0000008   FEMINAX                                  ETL1           23,00  STRIP 
+  F0000009   FG TROCHES                               RAK1           70,00  TAB 
+  F000001    FEMMY VIT D3                             ETL1           83,00  BOX 
+  F0000017   FIESTA ULTRA SAFE 3'S                    ETL3B           3,00  BOX 
+  F0000020   FITKOM TAB ANGGUR                        ETL4            2,00  BTL 
+  F0000021   FITKOM TAB JERUK                         ETL4            2,00  BTL 
+  F0000022   FITKOM TAB STRAW                         ETL4            4,00  BTL 
+  F0000024   FOLAVIT 400MG                            ETL1           26,00  STRIP 
+  F0000025   FRESH CARE CITRUS                        ETL2           21,00  BTL 
+  F0000026   FRESH CARE GREEN TEA                     ETL2            7,00  BTL 
+  F0000027   FRESH CARE LAVENDER                      ETL2           10,00  BTL 
+  F0000030   FRESH CARE STRONG                        ETL2           19,00  BTL 
+  F0000031   FUNGIDERM 5 GR                           ETL2            1,00  TUBE 
+  F0000036   FORUMEN TT                               ETL2            5,00  BTL 
+  F0000039   FUROSEMIDE 40 MG                         RAK2           13,00  STRIP 
+  F0000041   FIESTA DOTTED 12'S                       ETL3B           2,00  DUS 
+  F0000043   FIESTA STRAW 12'S                        ETL3B           2,00  DUS 
+  F0000044   FASIDOL                                  ETL1           31,00  STRIP 
+  F0000046   FASIDOL FORTE                            ETL1           17,00  STRIP 
+  F0000054   FLUCADEX TAB                             ETL1           11,00  STRIP 
+  F0000056   FLADYSTIN OVULA                          KULKAS          7,00  SUPP 
+  F0000057   FASIDOL SYR                              ETL3A           6,00  BTL 
+  F0000060   FUNGIDERM 10GR                           ETL2            8,00  TUBE 
+  F0000072   FLUMIN                                   ETL1            1,00  STRIP 
+  F0000073   FLOXIFAR                                 RAK1           15,00  STRIP 
+  F0000074   FLUMIN SYR                               ETL3A           2,00  BTL 
+  F0000079   FARSIFEN SYR                             ETL3A           5,00  BTL 
+  F0000081   FARSIFEN 400MG TAB                       RAK1           20,00  STRIP 
+  F0000090   FOLAMIL GOLD                             ETL5A           1,00  BTL 
+  F0000091   FAXIDEN 20MG                             RAK1           19,00  STRIP 
+  F00001     FLOXIGRA 500MG                           RAK1            4,00  STRIP 
+  F0000100   FLIMTY                                   ETL2           30,00  SACH 
+  F0000106   FENOFIBRATE 300MG                        RAK2            4,00  STRIP 
+  F0000107   FLUTAMOL KAPLET                          ETL1            4,00  STRIP 
+  F0000108   FOLAVICAP 1000                           ETL1            6,00  STRIP 
+  F0000110   FEMMY TRIMUNE                            ETL1           54,00  BOX 
+  F0000111   FARMALAT                                 RAK1           10,00  STRIP 
+  F0000112   FLUNADIN TAB                             ETL1            7,00  STRIP 
+  F0000114   FITSO SOAP SULFUR 70GR                   ETL5B           1,00  PCS 
+  F0000116   FRESH CARE EUCALYPTUS PATCH              ETL2            1,00  PCS 
+  F0000117   FLUTAMOL SYR 60ML                        ETL3A           6,00  BTL 
+  F000036    FARIZOL KAPLET                           RAK1            1,00  STRIP 
+  F000055    FLUCADEX SYR 60ML                        ETL3A           4,00  BTL 
+  F000075    FASIDOL FORTE SYR                        ETL3A           2,00  BOTOL 
+  F000077    FARSIFEN PLUS                            ETL1           14,00  STRIP 
+  F000078    FASIDOL DROP                             ETL3A           1,00  BTL 
+  F000079    IMBOOST KIDS TAB 21'S                    ETL4            2,00  BTL 
+  F000080    FITBES FORCE KAPLET                      ETL1            3,00  AMPLOP 
+  F000082    FAXIDEN GEL 10GR                         RAK3            2,00  TUBE 
+  F000084    FIBRIL 250MG KAPS                        ETL5A           1,00  STRP 
+  F000085    FRESH CARE MKP                           ETL2            7,00  FLS 
+  F000086    FIESTA DELAY 3'S                         ETL3B           1,00  PCS 
+  F000091    FLUANZA KPT                              ETL1           16,00  STRIP 
+  G0000001   GANDAPURA LANG 30 ML                     ETL2            8,00  BTL 
+  G0000002   GANDAPURA LANG 60 ML                     ETL2            9,00  BTL 
+  G0000006   GELIGA CAIR 30 ML                        ETL2           10,00  BTL 
+  G0000007   GELIGA CAIR 60 ML                        ETL2            2,00  BTL 
+  G0000009   GELIGA CREAM 30GR                        ETL2            1,00  TUBE 
+  G000001    GENTALEX CR                              RAK3            3,00  TUBE 
+  G00000105  GOOD DAY BTL                             SC              6,00  BTL 
+  G0000015   GLUCOPHAGE 500MG                         RAK1           10,00  TAB 
+  G0000016   GLUDEPATIC 500MG                         RAK1            5,00  STRIP 
+  G0000017   GOM                                      ETL2           49,00  BTL 
+  G0000018   GPU 30 ML                                ETL2           11,00  BTL 
+  G0000019   GPU 60 ML                                ETL2            5,00  BTL 
+  G0000025   GRAZEO                                   RAK1           45,00  STRIP 
+  G0000026   GENTAMICYN CR                            RAK3           12,00  TUBE 
+  G0000027   GOMARS                                   ETL5A           1,00  DUS 
+  G0000028   GASTRUCID SYR                            ETL1            7,00  BTL 
+  G0000029   GASTRUCID TAB                            ETL1           28,00  STRIP 
+  G0000030   GAZERO                                   ETL1           70,00  SACH 
+  G0000031   GENOINT SK                               RAK3            3,00  TUBE 
+  G0000033   GENTIAN VIOLET                           ETL2           41,00  BTL 
+  G0000035   GOLD G                                   ETL2            1,00  BTL 
+  G0000038   GENALTEN CR 5GR                          RAK3            9,00  TUBE 
+  G0000042   GRATHAZON 0.5                            RAK1           46,00  STRIP 
+  G0000043   GUANISTREP SYR                           ETL1            3,00  BTL 
+  G0000047   GRAFADON                                 ETL1           12,00  STRIP 
+  G0000053   GPU KRIM 150GR                           ETL2            2,00  POT 
+  G0000057   GRAFALIN 4MG                             RAK1           23,00  STRIP 
+  G0000058   GRAFALIN 2MG                             RAK1           19,00  STRIP 
+  G0000059   GLIMEPIRIDE 2MG                          RAK2           19,00  STRIP 
+  G0000063   GINIFAR                                  RAK1           15,00  STRIP 
+  G0000064   GPU JAHE 30ML                            ETL2            5,00  BTL 
+  G0000067   G BUMIN                                  ETL2           19,00  BTL 
+  G0000068   GRANTUSIF TAB                            RAK1           27,00  STRIP 
+  G0000070   GRAFACHLOR                               RAK1           31,00  STRIP 
+  G0000077   GREEN OIL HERBAL 5ML                     ETL2            3,00  PCS 
+  G0000080   GLIKOS 500MG                             RAK1           11,00  STRIP 
+  G0000084   GOFRESS ECOPACK                          ETL2            1,00  PCS 
+  G0000085   GRAFAMIC                                 RAK1            9,00  STRIP 
+  G0000086   GABAPETIN KAP 300MG                      RAK2            6,00  STRIP 
+  G0000088   GENOINT SM                               RAK4            4,00  TUBE 
+  G0000089   GASELA TAB                               RAK1           15,00  STRIP 
+  G0000092   GPU KRIM 60GR                            ETL2            5,00  PCS 
+  G0000093   GPU KRIM JAHE 150G                       ETL2            2,00  POT 
+  G0000097   GENOINT TM                               RAK4            2,00  FLS 
+  G0000099   GF MILK UHT 125ML                        SC              1,00  PCS 
+  G0000100   GPU PALA 30ML                            ETL2            7,00  BTL 
+  G0000103   GLIBENCLAMIDE BLISTER                    RAK2           54,00  STRIP 
+  G0000105   GLIQUIDONE 30MG                          RAK2           11,00  STRIP 
+  G0000108   GOTIK 5ML                                ETL2            2,00  BTL 
+  G0000112   GLUCOSAMINE PATCH                        ETL2           20,00  PCS 
+  G0000116   GOLDEN GINGER CAN HERB CLASSIC HOT 150GR ETL5A           1,00  KLG 
+  G0000117   GOLDEN GINGER CHEWS GINGER BROWN SUGAR 1 ETL5A           1,00  CAN 
+  G0000118   GRAFADON FORTE TAB                       ETL1            7,00  STRIP 
+  G0000168   GREEN OIL 10ML                           ETL2            2,00  BTL 
+  G000113    GLUCOSAMINE PLUS                         ETL1            3,00  STRIP 
+  G001       CEK GULA DARAH                                           7,00  KALI 
+  G004       GELAS CUCI MATA                          ETL3B           5,00  PCS 
+  H0000002   HANSAPLAST ROL B                         ETL3B          18,00  ROL 
+  H0000003   HANSAPLAST ROL K                         ETL3B          92,00  ROL 
+  H0000004   HEMAVITON ACTION                         ETL1           16,00  STRIP 
+  H0000005   HEMAVITON STAMINA                        ETL1           27,00  STRIP 
+  H0000006   HEROCYN TALK 85G                         ETL3B           5,00  BTL 
+  H0000007   HUFAGRIP BP                              ETL3A          19,00  BTL 
+  H0000008   HUFAGRIP FLU                             ETL3A          13,00  BTL 
+  H0000009   HUFAGRIP PILEK                           ETL3A          12,00  BTL 
+  H0000010   HUFAGRIP TMP                             ETL3A          11,00  BTL 
+  H0000011   HYPAFIX                                  ETL3B          18,00  ROL 
+  H0000012   HABBATUSAUDA 120                         ETL2            1,00  BTL 
+  H0000013   HUFAGRIP FORTE                           ETL1           16,00  STRIP 
+  H0000014   HUFAMYCETIN                              RAK1           18,00  STRIP 
+  H0000015   HYDROCORTISON 2.5% BOX                   RAK3            9,00  TUBE 
+  H0000016   HYPAFIX 5CMx5M                           ETL3B           6,00  ROL 
+  H0000017   HUFAMYCETIN SYR                          RAK4            1,00  BTL 
+  H0000018   HEROCYN TALK 150G                        ETL3B           4,00  BTL 
+  H0000019   HISTIGO                                  RAK1           10,00  STRIP 
+  H0000022   HOTIN CREAM                              ETL2            3,00  BTL 
+  H0000024   HYDROCORTISON 2,5% TUBE                  RAK3           23,00  TUBE 
+  H00000243  HNS PROPOLIS SERUM                       ETL5B           1,00  BTL 
+  H0000026   HABBATUSAUDA 210                         ETL2            2,00  BTL 
+  H0000030   HUFAMAG PLUS TAB                         ETL1           28,00  STRIP 
+  H0000032   HEROCYN BABY 200GR                       ETL3B           4,00  BTL 
+  H0000034   HOTIN AROMATHERAPY 120ML                 ETL2            2,00  BTL 
+  H0000035   HUFRALGIN                                RAK1           15,00  STRIP 
+  H0000038   HEXOS                                    ETL2           36,00  SACHET 
+  H0000042   HOTIN CREAM TUBE 120GR                   ETL2            4,00  TUBE 
+  H0000043   HOTIN CREAM TUBE 60GR                    ETL2            1,00  TUBE 
+  H0000044   HANSAPLAS AMPLOP                         ETL3B           7,00  AMP 
+  H0000049   H BOOSTER                                ETL3A           5,00  BTL 
+  H0000050   HUFAMAG SYR                              ETL1            5,00  BTL 
+  H0000051   HOTIN AROMATHERAPY TUBE 60ML             ETL2            3,00  TUBE 
+  H0000052   HOTIN AROMATHERAPY TUBE 120              ETL2            3,00  TUBE 
+  H0000057   HOTIN CREAM 60 ML                        ETL2            2,00  BTL 
+  H0000059   HERBAKOF SYR 60ML                        ETL3A           3,00  BTL 
+  H0000065   HOTIN DCL 60GR                           ETL2            1,00  TUBE 
+  H0000067   HEROCYN BABY 100GR                       ETL3B           4,00  BTL 
+  H0000068   HUFAGESIC SYR 60ML                       ETL3A           3,00  BOTOL 
+  H0000069   HUFAGESIC                                ETL1           18,00  STRIP 
+  H0000073   HANSAPLAST KIDS AMP                      ETL3B           3,00  AMPLOP 
+  H0000077   HOTIN STRONG TUBE 60GR                   ETL2            7,00  TUBE 
+  H0000079   HOTIN KOYO AROMTRPY                      ETL2           15,00  PCS 
+  H0000083   HUFANOXIL 500MG                          RAK1            9,00  STRIP 
+  H0000084   HISTAPAN                                 RAK1           18,00  STRIP 
+  H0000095   HELIXIM TAB                              RAK1            3,00  STRIP 
+  H0000098   HUFANEURON                               ETL1            9,00  STRIP 
+  H0000099   HUFABION                                 ETL1            9,00  STRIP 
+  H0000489   HOTIN STRONG TUBE 120GR                  ETL2            2,00  TUBE 
+  H0000491   HAND SANITIZER REFILL                    ETL3B          15,00  ML 
+  H0000492   HYCOCARE FOOT PLAST 3'S                  ETL2            2,00  PCS 
+  H0000493   HEVIT-C 500MG                            ETL5B           3,00  STRIP 
+  H0000494   HOLIMOX 500MG                            RAK1           10,00  STRIP 
+  H0000499   HABBATUSSAUDA ALYA MINYAK                ETL2            1,00  BTL 
+  H0000501   HEVIT C PLUS                             ETL1           20,00  STRIP 
+  H0000502   HAU FUNG SAN                             ETL4            6,00  BTL 
+  H0000503   HEVIT C 1000MG                           ETL1           16,00  STRIP 
+  H0000504   HANSAPLAST KAIN ELASTIS 10'S             ETL3B          11,00  AMP 
+  H000078    HOTIN STRONG BOTOL 120ML                 ETL2            4,00  BTL 
+  H000080    HANSAPLAST SPRAY                         ETL3B           1,00  BTL 
+  H000082    HUFADEXTAMIN TABLET                      RAK1           13,00  STRP 
+  H000092    HISTAKLOR 2MG                            ETL1           21,00  STRIP 
+  H000094    HANSAPLAST FOOT PLASTER ENV 6'S          ETL3B          15,00  AMP 
+  H000095    HAND GEL 60ML                            ETL2           13,00  BTL 
+  H000096    HANDRUB ANTISEPTIC 500ML                 ETL3B          17,00  BTL 
+  H000369    HOTIN BALSEM                             ETL2            2,00  BTL 
+  H000425    HANASUI BODY SPA GEL W.C                 ETL5B           1,00  BTL 
+  H00457     HUFABETHAMIN SYR                         RAK4            4,00  BTL 
+  I0000001   IBUPROFEN 400MG                          RAK2           13,00  STRIP 
+  I0000004   IMBOOST                                  ETL1           46,00  TAB 
+  I0000005   IMBOOST FORCE                            ETL1          219,00  TAB 
+  I0000007   INCIDAL OD                               RAK1           22,00  TAB 
+  I0000008   INERSON OINT 15G                         RAK3            2,00  TUBE 
+  I0000009   INSTO REG                                ETL2            7,00  BTL 
+  I0000010   INTERHISTIN                              RAK1          150,00  TAB 
+  I0000011   INTUNAL FORTE                            ETL1           13,00  STRIP 
+  I0000012   INZA                                     ETL1           16,00  STRIP 
+  I0000013   INZANA                                   ETL1           21,00  STRIP 
+  I0000014   IPI A                                    ETL5B           4,00  BTL 
+  I0000015   IPI B KOMPLEX                            ETL5B           1,00  BTL 
+  I0000020   IMBOOST FORCE SYR                        ETL3A          10,00  BTL 
+  I0000022   ISOSORBIDE DINITRATE                     RAK2           13,00  STRIP 
+  I0000027   IMBOOST SYR                              ETL3A           5,00  BTL 
+  I0000028   INPEPSA 100 ML                           RAK4            2,00  BTL 
+  I0000031   INFLASONE KAPLET                         RAK1           51,00  STRIP 
+  I0000035   INFUSAN RL WIDARTA                       RAK4           65,00  FLS 
+  I0000036   INFUSAN NACL WIDATRA                     RAK4           14,00  BTL 
+  I0000043   INFALGIN                                 RAK1           18,00  STRIP 
+  I0000050   INTUNAL SYR 60ML                         ETL3A           4,00  BTL 
+  I0000053   INAMID TAB                               RAK1            5,00  STRIP 
+  I0000056   ITRABAT SYR 100ML                        ETL3A           3,00  BTL 
+  I0000059   IMBOOST EFFERVESCENT JRK                 ETL3A           3,00  BTL 
+  I0000065   IPI C 90'S                               ETL5B           4,00  BTL 
+  I0000066   IPI D3 1000                              ETL5B           3,00  BTL 
+  I0000067   IMODIAR 2MG TAB                          RAK1           10,00  STRIP 
+  I000031    INFUSET OTSUKA                           LOKER           1,00  SET 
+  I000058    IMBOOST FORCE ES                         ETL1           39,00  TAB 
+  I00032     INFUSET DWS                              ETL3B           2,00  PCS 
+  J0000001   JESSCOOL                                 ETL4           16,00  PCS 
+  J00000014  JOHNSON BABY OIL REG 50 ML               ETL2            4,00  BTL 
+  J0000003   JF SULFUR ACNE SKIN CARE 90 GR           ETL2            4,00  PCS 
+  J0000012   JOHNSON BABY OIL REG 125                 ETL5B           4,00  BTL 
+  J0000014   JAGUAR                                   ETL3B           1,00  BOX 
+  J0000015   JATI CINA TUBRUK                         ETL2            3,00  BKS 
+  J0000017   JOINT MAX                                ETL1            4,00  STRIP 
+  J0000018   JONHSON POWDER 50GR                      ETL3B           4,00  BTL 
+  J0000020   JOHNSONS POWDER 100GR                    ETL3B           2,00  BTL 
+  J00000207  JOHNSON COTTONTOUCH 200ML                ETL5B           2,00  BTL 
+  J0000022   JOHNSON BABY COLOGNE 100ML               ETL5B           4,00  BTL 
+  J0000024   JOHNSONS POWDER 150GR                    ETL3B           5,00  BTL 
+  J0000026   JOHNSON'S BABY SOAP 100GR                ETL5B           5,00  PCS 
+  J0000027   AMH JAHE MERAH RENTENG                   ETL5B         362,00  SACH 
+  J0000030   JF SULFUR DERMAMED 90GR                  ETL5B           2,00  PCS 
+  J0000032   JARUM INSULIN MICROFINE UNGU 31X5        MEJA           91,00  PCS 
+  J0000033   JF SULFUR ANTI ACNE 65GR                 ETL5B           3,00  PCS 
+  J0000078   JATI CINA CELUP PRIMA                    ETL2            4,00  BOX 
+  K00000     KARTU STOK                               LOKER          95,00  PCS 
+  K0000002   KALCINOL-N CR 5G                         RAK3            2,00  TUBE 
+  K00000029  KOMIX KIDS OBH PE                        ETL1           17,00  PCS 
+  K0000003   KALMETHASONE 0,5MG                       RAK1          290,00  TAB 
+  K0000004   KALNEX 500MG                             RAK1           90,00  TAB 
+  K0000006   KALPANAX KRIM                            ETL2           10,00  TUBE 
+  K0000007   KANDISTATIN DROP SUSP 12ML               RAK4            4,00  BTL 
+  K0000008   KADITIC                                  RAK1          250,00  TAB 
+  K0000009   KAPSIDA                                  ETL5B           4,00  BTL 
+  K0000010   KAPSUL TUNTAS                            ETL5B           7,00  BOX 
+  K0000012   KB ANDALAN                               RAK4           43,00  STRIP 
+  K0000013   KENALOG IN ORABASE 5G                    RAK3            1,00  TUBE 
+  K0000014   KETOCONAZOLE 2% CR                       RAK3            4,00  TUBE 
+  K0000015   KETOMED CR 15G                           RAK3            1,00  TUBE 
+  K0000016   KETOMED SHAMPO                           RAK4            2,00  BTL 
+  K0000017   KETOPROFEN 50MG                          RAK2           11,00  STRIP 
+  K0000019   KINOKI                                   ETL5B          10,00  PCS 
+  K0000021   KLODERMA CR 10G                          RAK3           13,00  TUBE 
+  K0000022   KLODERMA CR 5G                           RAK3            3,00  TUBE 
+  K0000023   KLODERMA OINT 10G                        RAK3            3,00  TUBE 
+  K0000024   KLODERMA OINT 5G                         RAK3            3,00  TUBE 
+  K0000025   KOMIX JAHE                               ETL1           60,00  SACH 
+  K0000026   KOMIX JERUK NIPIS                        ETL1           58,00  SACH 
+  K0000027   KOMIX KIDS MADU                          ETL1           12,00  SACH 
+  K0000028   KOMIX KIDS STRAW                         ETL1            3,00  SACH 
+  K0000029   KOMIX OBH                                ETL1           30,00  SACH 
+  K0000030   KOMIX PEPPERMINT                         ETL1           60,00  SACH 
+  K0000032   KONICARE M.TELON PLUS 60ML               ETL2            3,00  BTL 
+  K0000033   KONIDIN                                  ETL1           45,00  STRIP 
+  K0000038   KAPAS 250 GR BIRU                        ETL5B           2,00  BAL 
+  K0000046   KASSA STERIL CAHAYA                      ETL3B         205,00  DUS 
+  K0000056   KAKAK TUA                                ETL2            3,00  BTL 
+  K0000058   KONICARE M.TELON 60ML                    ETL2            4,00  BTL 
+  K0000059   KONICARE M. KAYU PUTIH 60ML              ETL2            1,00  BTL 
+  K0000060   KEJIBELING IKONG                         ETL1           17,00  STRIP 
+  K0000064   KETOCONAZOLE TAB                         RAK2           21,00  STRIP 
+  K0000065   KALIUM DIKLOFENAK 50MG                   RAK2           10,00  STRIP 
+  K0000066   KLORFESON CR                             RAK3           12,00  TUBE 
+  K0000068   KARET DOT DODO                           ETL5B          13,00  PCS 
+  K0000069   KAPAS GULUNG 50GR                        ETL5B           2,00  PCS 
+  K0000071   KOTAK P3K DINDING                        ETL4            2,00  PCS 
+  K0000073   KOOL FEVER BABY                          ETL5B           7,00  SACH 
+  K0000074   KOOL FEVER KID                           ETL5B           9,00  SACH 
+  K0000077   KONICARE M.TELON PLUS 125ML              ETL2            3,00  BTL 
+  K0000079   KANA WHITE 15GR                          ETL2            1,00  TUBE 
+  K0000082   KAPSUL 0                                 LOKER         465,00  KAPSUL 
+  K0000084   KOYO CABE                                ETL2           28,00  SACHET 
+  K0000086   KONICARE BABY DIAPER 60G                 ETL2            3,00  TUBE 
+  K0000087   KLOROFIL                                 ETL2            1,00  BTL 
+  K0000089   KONICARE M.TELON 125ML                   ETL2            3,00  BTL 
+  K0000093   KAPAS GULUNG 100GR                       ETL5B           7,00  PCS 
+  K0000094   KONVERMEX KAPSUL 250MG                   ETL1            8,00  STRIP 
+  K0000095   KIRANTI                                  SC             23,00  BTL 
+  K0000096   KAPAS BIRU IKG                           ETL5B           1,00  PCS 
+  K0000097   KAPAS 500GR BIRU                         ETL5B           2,00  BAL 
+  K0000100   KULDON                                   ETL4           33,00  STRIP 
+  K0000102   KONICARE M.KAYU PUTIH PLUS 30ML          ETL2            1,00  BTL 
+  K0000103   KOMPOLAX SYR                             ETL1            3,00  BTL 
+  K0000138   KAPAS GULUNG BIRU 25GR                   ETL5B           4,00  PCS 
+  K0000140   KONICARE M.KAYU PUTIH PLUS 60ML          ETL2            3,00  BTL 
+  K0000141   KUTILOS                                  ETL2            2,00  BTL 
+  K0000148   KAPSUL JAMU IBU MADURA                   MEJA           27,00  BTL 
+  K0000149   KALPANAX KRIM (POT)                      ETL2           17,00  POT 
+  K0000153   KOPI PEDE                                ETL3B           8,00  SACH 
+  K0000156   KARET DOT RELIABLE                       ETL5B          58,00  PCS 
+  K0000160   KIRANTI ORANGE                           SC              3,00  BTL 
+  K0000165   KOMPRES XTRA COOL                        ETL5B          14,00  SCHT 
+  K0000166   KARET DOT RELIABLE GEPENG                ETL5B          28,00  PCS 
+  K0000168   KELOPLAST KELOID                         ETL2            1,00  PCS 
+  K0000170   KONICARE M.TELON PLUS 30ML               ETL2            3,00  BTL 
+  K0000174   KOMIX HERBAL SACH                        ETL5B          12,00  SACH 
+  K0000176   KENSHIN                                  ETL1            9,00  STRIP 
+  K0000177   KOPI KARKASA                             ETL3B           2,00  PCS 
+  K0000182   KRIM 88 ANTI JAMUR                       ETL2           10,00  TUBE 
+  K0000186   KONICARE M.KAYU PUTIH PLUS 125ML         ETL2            3,00  BTL 
+  K0000187   KONICARE NATURAL STRETCH MARKS OIL       ETL2            1,00  BTL 
+  K0000188   KINA                                     ETL1           11,00  STRIP 
+  K0000189   KAPSUL GEMUKKU                           ETL1            2,00  BTL 
+  K000065    KETOCONAZOLE CR 15G                      RAK3            6,00  TUBE 
+  K0000789   KAPAS KHARISMA 30g                       ETL5B          15,00  PCS 
+  K000138    KARET DOT PIGEON                         ETL5B          37,00  PCS 
+  L0000001   LACTACID BABY                            ETL5B           6,00  BTL 
+  L0000003   LACTO-B                                  KULKAS         72,00  SACH 
+  L0000005   LAMESON 4MG                              RAK1           25,00  TAB 
+  L0000007   LANSOPRAZOLE                             RAK2            6,00  STRIP 
+  L0000009   LASERIN 30 ML                            ETL3A          23,00  BTL 
+  L0000010   LAXING                                   ETL1           22,00  STRIP 
+  L00000100  LOKEV KAP                                RAK1           22,00  STRIP 
+  L0000011   LICODEXON 0,5MG                          RAK1           29,00  STRIP 
+  L0000013   LODIA 2MG                                RAK1          260,00  TAB 
+  L0000014   LORATADINE 10MG                          RAK2          130,00  TAB 
+  L0000015   LOTTE                                    ETL2            3,00  BTL 
+  L0000017   LANSET                                   MEJA          391,00  PCS 
+  L0000018   LASERIN 60ML                             ETL3A           5,00  BTL 
+  L0000019   LIKOKALK                                 ETL1           19,00  STRIP 
+  L0000021   LANADEXONE 0,5                           RAK1           28,00  STRIP 
+  L0000029   LISINOPRIL 10MG                          RAK2            3,00  STRIP 
+  L0000033   LASERIN 110ML                            ETL3A           4,00  BTL 
+  L0000037   LIKOKALK PLUS                            ETL1           11,00  STRIP 
+  L0000046   LAMESON 8MG                              RAK1           45,00  TAB 
+  L0000047   LISTERINE COOL MINT 250ML                ETL2            1,00  BTL 
+  L0000051   LAMANDEL                                 ETL2            1,00  POT 
+  L0000052   LAPIBAL                                  RAK1            5,00  STRIP 
+  L0000054   LAXADINE 60ML                            ETL1            2,00  BTL 
+  L0000063   LASERIN MADU 30ML                        ETL3A          35,00  BTL 
+  L0000067   L-BIO                                    KULKAS         14,00  SACH 
+  L0000069   LISTERIN MULTI PROTECT 250ML             ETL2            2,00  BTL 
+  L0000074   LERZIN                                   RAK1           20,00  STRIP 
+  L0000075   LACTACY BABY 150ML                       ETL5B           3,00  BTL 
+  L0000077   LATIBET 5MG                              RAK1           12,00  STRIP 
+  L0000090   LORIHIS 10 MG TAB                        RAK1            6,00  STRIP 
+  L0000091   LERZIN SYR                               RAK4            6,00  BTL 
+  L0000092   LE MINERAL 600ML                         SC             43,00  BTL 
+  L0000095   LISTERIN FRESH BURST 80ML                ETL2            2,00  BTL 
+  L0000099   LERZIN DROP                              RAK4            4,00  BTL 
+  L0000100   LANPEPSA 120ML                           RAK4            1,00  BTL 
+  L0000101   LAXING 10'S                              ETL1            1,00  STRIP 
+  L0000102   LASEGAR KLG ANAK                         SC              2,00  KLG 
+  L0000104   LISINOPRIL 5MG                           RAK2            3,00  STRIP 
+  L0000105   LAMBUCID SYR 60ML                        ETL1            3,00  BTL 
+  L0000106   LACTACYD FEMININE 60ML                   ETL5B           1,00  BTL 
+  L0000107   14                                       SC              1,00  BTL 
+  L0000108   LISTERINE MULTI PROTECT ZERO 100ML       ETL2            1,00  BTL 
+  L0000109   LAMBUCID TAB 10'S                        ETL1            5,00  STRIP 
+  L0000110   LACTAMOR KAPLET                          ETL5B           2,00  STRIP 
+  L0000205   LOSTACEF SYR                             RAK4            2,00  BTL 
+  L000021    LOSTACEF                                 RAK1            4,00  STR 
+  L000022    L-CAL KAP 5X6                            ETL1            4,00  STRIP 
+  L000023    LEVOFLOXACIN 500MG                       RAK2            2,00  STRIP 
+  L000025    LACTULOSE SYR                            ETL1            2,00  BTL 
+  L000027    LISTERIN FRESH BURSTN 250ML              ETL2            2,00  BTL 
+  L000028    LAMANDEL SCHT                            ETL2            2,00  SCHT 
+  L000029    LISTERINE SIWAK 250ML                    ETL2            1,00  BTL 
+  L000030    LELAP 4'S                                ETL5B           2,00  STRIP 
+  L00029     LACTACYD BABY 250ML                      ETL5B           4,00  BTL 
+  M00000     MUCOHEXIN ELIXIR SYR                     ETL3A           3,00  BTL 
+  M0000004   M. TELON LANG 100 ML                     ETL2            4,00  BTL 
+  M0000006   M. TELON LANG 60 ML                      ETL2            2,00  BTL 
+  M0000007   MY BABY TELON PLUS 60 ML                 ETL2            3,00  BTL 
+  M0000008   MY BABY TELON PLUS 90 ML                 ETL2            4,00  BTL 
+  M0000009   M. URUT DRAGON                           ETL2            9,00  BTL 
+  M0000014   MARCKS CRME                              ETL3B           3,00  PCS 
+  M0000015   MARCKS PUTIH                             ETL3B           7,00  PCS 
+  M0000016   MARCKS ROSE                              ETL3B           4,00  PCS 
+  M0000018   MECOBALAMINE 500MG                       RAK2            4,00  STRIP 
+  M0000019   MEDICATED OIL 40 ML (M.SUCI)             ETL2            8,00  BTL 
+  M0000020   MEDIKLIN GEL 15G                         RAK3            3,00  TUBE 
+  M0000023   MEFINAL 500MG                            RAK1          130,00  TAB 
+  M0000024   MELANOX CR 15G                           RAK3            3,00  TUBE 
+  M0000025   MELANOX FORTE CR 15G                     RAK3            3,00  TUBE 
+  M0000026   MELOXICAM 15MG                           RAK2           18,00  STRIP 
+  M0000027   MELOXICAM 7,5MG                          RAK2           10,00  STRIP 
+  M0000029   MERTIGO 6MG                              RAK1           55,00  TAB 
+  M0000030   METFORMIN 500MG                          RAK2          104,00  STRIP 
+  M0000031   METHILPREDNISOLONE 16MG                  RAK2           20,00  STRIP 
+  M0000032   METHILPREDNISOLONE 4MG                   RAK2           36,00  STRIP 
+  M0000033   METHILPREDNISOLONE 8MG                   RAK2           20,00  STRIP 
+  M0000034   METRONIDAZOLE                            RAK2            6,00  STRIP 
+  M0000036   MICROGYNON KB                            RAK4            2,00  BOX 
+  M0000041   MIXAGRIP                                 ETL1           23,00  STRIP 
+  M0000042   MKP LANG 120 ML                          ETL2           10,00  BTL 
+  M0000043   MKP LANG 15 ML                           ETL2           10,00  BTL 
+  M0000044   MKP LANG 210 ML                          ETL2            4,00  BTL 
+  M0000045   MKP LANG 30 ML                           ETL2           13,00  BTL 
+  M0000046   MKP LANG 60 ML                           ETL2            3,00  BTL 
+  M0000053   MYCORAL 200MG                            RAK1           44,00  TAB 
+  M0000054   MYCORAL CR                               RAK3            9,00  TUBE 
+  M0000055   MYLANTA SYR (K)                          ETL1           13,00  BTL 
+  M0000056   MYLANTA TAB                              ETL1           17,00  STRIP 
+  M0000057   MOLACORT 0.75MG                          RAK1            1,00  STRIP 
+  M0000059   MICROLAX 3'S                             ETL1           16,00  TUBE 
+  M0000060   MYLANTA SYR (B)                          ETL1            8,00  BTL 
+  M0000061   MATERNITY                                ETL5B           6,00  PCS 
+  M0000062   MAMI BREAST PUMP                         ETL5B           3,00  PCS 
+  M0000063   MICONAZOL CR 2%                          ETL2           22,00  TUBE 
+  M0000064   MADURASA JERUK                           ETL4          121,00  SACH 
+  M0000075   M. KAPAK 5ML                             ETL2            3,00  BTL 
+  M0000076   M. KAPAK 28ML                            ETL2            2,00  BTL 
+  M0000078   MADU SYAMIL ANAK                         ETL2            4,00  BTL 
+  M0000082   MINYAK ZAITUN AL-AROBI                   ETL2            8,00  BTL 
+  M0000084   MEDIKLIN TR 15 GRAM                      RAK3            4,00  TUBE 
+  M0000086   MIXAGRIP FLU DAN BATUK                   ETL1           15,00  STRIP 
+  M0000087   MEDICATED 12 ML                          ETL2            6,00  BTL 
+  M0000088   MEDICATED 20 ML                          ETL2            3,00  BTL 
+  M0000090   MASTER NON WOVEN                         ETL3B          17,00  DUS 
+  M0000091   MY BABY TELON PLUS 150 ML                ETL2            6,00  BTL 
+  M0000093   MOLACORT 0.5 MG                          RAK1           14,00  STRIP 
+  M0000095   M. KAPAK 56 ML                           ETL2            2,00  BTL 
+  M0000098   MADU TJ STRAW                            ETL4           60,00  SACH 
+  M0000099   MADU TJ JERUK                            ETL4          123,00  SACH 
+  M0000100   MIRASIC                                  ETL1           94,00  STRIP 
+  M0000101   MUCOS SYR                                RAK4            5,00  BTL 
+  M0000102   MERIT                                    ETL5B           8,00  SACH 
+  M0000103   MADU TJ SUPER 150GR                      ETL2            3,00  BTL 
+  M0000104   MUCOHEXIN TAB                            ETL1           30,00  STRIP 
+  M0000106   MBK POWDER                               ETL3B          38,00  SACH 
+  M0000107   MKP LANG AROMATIK 60ML                   ETL2            5,00  BTL 
+  M0000108   M. TELON LANG PLUS 60ML                  ETL2            5,00  BTL 
+  M0000112   M. ANGIN LANG 6ML                        ETL2            2,00  BTL 
+  M0000113   M. ANGIN LANG 3ML                        ETL2            3,00  BTL 
+  M0000115   MADU BIMA 99                             ETL2            2,00  BTL 
+  M0000116   MUCOS DROP                               RAK4            3,00  BTL 
+  M0000133   MKP LANG AROMATIK 30ML                   ETL2            5,00  BTL 
+  M0000134   MOLOCO B12                               RAK1            5,00  STRIP 
+  M0000141   MEDIAMER B6                              RAK1            2,00  STRIP 
+  M0000146   M. KAPAK 10ML                            ETL2            3,00  BTL 
+  M0000147   M. KAPAK 14ML                            ETL2            2,00  BTL 
+  M0000148   MIRASIC SYR                              ETL3A           5,00  BTL 
+  M0000164   MY BABY POWDER 50GR                      ETL3B           4,00  BTL 
+  M0000165   MY BABY POWDER 100GR                     ETL3B           5,00  BTL 
+  M0000166   MY BABY POWDER 150GR                     ETL3B           1,00  BTL 
+  M0000169   MEXON                                    RAK1           14,00  STRIP 
+  M0000171   MAAG GEL                                 ETL1            8,00  BTL 
+  M0000173   MIXALGIN TAB                             RAK1           15,00  STRIP 
+  M0000176   MADU TJ MURNI 250GR                      ETL2            6,00  BTL 
+  M0000181   MADU HITAM PROPOLIS SAR                  ETL2           12,00  BTL 
+  M0000183   M. ANGIN LANG 12ML                       ETL2            1,00  BTL 
+  M0000184   MY BABY TELON PLUS LONG PROTECTION 60ML  ETL2            3,00  BTL 
+  M0000185   MIRASIC FORTE  650MG                     ETL1           23,00  STRIP 
+  M0000191   MAMA PAD FLOWER (24)                     ETL5B           2,00  BOX 
+  M0000192   MAMA PAD FLOWER (56)                     ETL5B           2,00  BOX 
+  M0000194   MY BABY TELON PLUS LONG PROTECT 90ML     ETL2            2,00  BTL 
+  M0000195   MADU TJ MURNI 500GR                      ETL2            2,00  BTL 
+  M0000197   M. IKAN SALMON                           ETL5A           2,00  BTL 
+  M0000199   MADU DIABETES                            ETL2            1,00  BTL 
+  M000020    MASKER KAIN BATIK                        ETL3B          50,00  PCS 
+  M0000201   MUPIROCIN OINTMENT 10GR                  RAK3            1,00  TUBE 
+  M0000202   MOLAKRIM 30GR                            ETL2            1,00  TUBE 
+  M0000210   MOLAFAT SYR                              RAK4            6,00  BTL 
+  M0000214   MY BABY SHAMPOO                          ETL5B           3,00  BTL 
+  M0000216   MINYAK BUT-BUT                           ETL2            4,00  BTL 
+  M0000217   MADU TJ PANAS DALAM 150GR                ETL2            8,00  BTL 
+  M0000218   MKP LANG PLUS 30ML                       ETL2            2,00  BTL 
+  M0000219   MKP LANG PLUS 60 ML                      ETL2            4,00  BTL 
+  M0000225   MAGTRAL STRAW                            ETL1            7,00  STRIP 
+  M0000226   MEPROMAAG TAB                            ETL1            6,00  STRIP 
+  M0000227   MOLADERM CR 10GR                         ETL2            5,00  TUBE 
+  M0000228   MINYAK URUT PARCOK                       ETL2            3,00  BTL 
+  M0000229   MARCKS TEENS CP PINK                     ETL3B           2,00  PCS 
+  M0000230   MILO UHT 190ML                           SC             17,00  KOTAK 
+  M0000233   MY BABY TELON PLUS 150ML LONG PROTEC     ETL2            3,00  BTL 
+  M0000241   M. TELON LANG PLUS 150ML                 ETL2            3,00  BOTOL 
+  M0000242   MENSES KAPSUL                            ETL5B           2,00  BTL 
+  M0000244   MASKER KARET NIAN                        ETL3B         681,00  PCS 
+  M0000245   MASKER NIAN KF94                         ETL3B           2,00  PCS 
+  M0000248   MASKER NIAN HIJAB                        ETL3B         293,00  PCS 
+  M0000249   MASKER NIAN DUCKBIL                      ETL3B       2.423,00  PCS 
+  M0000258   MECOVIT-D3                               ETL1            6,00  STRIP 
+  M000051    MOLEXFLU SYR                             ETL3A           6,00  BTL 
+  M0000856   MECOVIT-C                                ETL1            1,00  STRIP 
+  M0000861   MAX-D 1000                               ETL1            5,00  STRIP 
+  M0000862   MADU MAGO 350GR                          ETL2            3,00  BTL 
+  M0000864   MADU MULTI GURAH FB + PILEK              ETL1            3,00  BTL 
+  M0000865   MADU MINT                                ETL1            2,00  BTL 
+  M000111    MADU KURMA TJ 150GR                      ETL2            2,00  BTL 
+  M000112    MADURASA ORIGINAL                        ETL4           99,00  SACH 
+  M000115    MADU TJ SUPER 500 GR                     ETL2            2,00  BTL 
+  M000116    MADU TJ SUPER 250 G                      ETL2            6,00  BTL 
+  M000117    MADU TJ MURNI 150 GR                     ETL2            4,00  BTL 
+  M000176    M.TELON LANG PLUS 100 ML                 ETL2            3,00  BTL 
+  M000178    MADU TJ KURMA 250GR                      ETL2            3,00  BOTOL 
+  M000195    MARINE GUMMY ANGGUR                      ETL4            8,00  SACHET 
+  M000198    METFORMIN 850MG                          RAK2           33,00  BLISTER 
+  M000199    METOCLOPRAMID 10MG                       RAK2            8,00  STRIP 
+  M000205    MADU GEMUK DEWASA                        ETL2            2,00  BTL 
+  M000207    MADU TJ ORIGINAL                         ETL4           13,00  SCHT 
+  M000208    MYLANTA CHEW&MELTS BERRY                 ETL1            1,00  STRP 
+  M000210    MADU DIET                                ETL2            1,00  BTL 
+  M000212    MAMI KOMPRES LEMON                       ETL5B           7,00  SCHT 
+  M000213    MJS NATURE PROPOLIS 6ML                  ETL2            3,00  BTL 
+  M000215    MARCKS TEENS CP CREME                    ETL3B           1,00  PCS 
+  M000216    MARCKS TEENS CP PUTIH                    ETL3B           2,00  PCS 
+  M000217    MIPI CREAM 30GR                          ETL2            1,00  TUBE 
+  M000219    MOMETASONE CR 5GR                        RAK3            1,00  TUBE 
+  M000220    MOMETASONE CR 0.1% 10G                   RAK3            1,00  TUBE 
+  M000222    MIPI ROLL ON 10ML                        ETL2            1,00  BTL 
+  M000223    MADU MURNI WELLERY 650ML                 ETL2           11,00  BTL 
+  M000224    MADU MURNI WELLERY 250ML                 ETL2           12,00  BTL 
+  M000225    MADU MURNI WELLERY 120ML                 ETL2            4,00  BTL 
+  M000226    MADU WELLERY MUNGIL                      ETL2            7,00  BTL 
+  M000227    MUCOVY SYR                               ETL3A           1,00  BTL 
+  M000228    MEDISTEN CR 5GR                          ETL2            4,00  TUBE 
+  M000230    MIRASIC PLUS                             ETL1           22,00  STRIP 
+  M000232    MINYAK KUTUS KUTUS 100ML                 ETL2            2,00  BTL 
+  M000235    MADU HITAM PROPOLIS 175GR SAR            ETL2            5,00  BTL 
+  M000237    M. TELON LANG 150ML                      ETL2            2,00  BTL 
+  M000240    MASKER HIJAB SENSI                       ETL3B         263,00  PCS 
+  M000241    MY BABY KIDS KAYU PUTIH PLUS 60ML        ETL2            2,00  BTL 
+  M000242    MASKER ANAK NIAN                         ETL3B         143,00  PCS 
+  M000244    MADU ALFAUZ SUPER                        ETL1            2,00  BTL 
+  M000245    MUPIROCIN CACIUM 5GR                     RAK3            4,00  TUBE 
+  M000246    MY BABY KIDS KAYU PUTIH PLUS 90ML        ETL2            2,00  BTL 
+  M000247    MADU HIJAU AL-FAUZ BESAR                 ETL1            1,00  BTL 
+  M00054     MADURASA 150ML                           ETL2            1,00  BTL 
+  M000569    MADURASA 350ML                           ETL2            2,00  BTL 
+  M000570    MADU SUMBAWA GELAS                       ETL1            9,00  BTL 
+  M000571    MADU PAHIT PROPOLIS PRIMA [K]            ETL1            2,00  BTL 
+  M000572    MADU PAHIT+PROPOLIS PRM (B)              ETL1            4,00  BTL 
+  M000573    PRIMA PLUS PASAK BUMI [B]                ETL1            3,00  BTL 
+  M000574    MADU HITAM DIABET                        ETL1            1,00  BTL 
+  M000575    MOLAGIT                                  ETL1            2,00  STRIP 
+  N00000011  NEURALGIN RHEMA                          RAK1           14,00  STRIP 
+  N0000002   NATRIUM DIKLOFENAK 50MG                  RAK2           52,00  STRIP 
+  N0000003   NATUR E (16)                             ETL5B          24,00  STRIP 
+  N000000354 NUTRAFOR ACNE FACIAL WASH                ETL5B           2,00  TUBE 
+  N0000004   NEO HORMOVITON                           ETL1           11,00  STRIP 
+  N0000005   NEO NAPACIN                              ETL1           39,00  STRIP 
+  N0000006   NEO RHEUMACYL                            ETL1           22,00  STRIP 
+  N0000007   NEO RHEUMACYL NEURO                      ETL1            5,00  STRIP 
+  N0000008   NEOZEP                                   ETL1            9,00  STRIP 
+  N0000009   NEPHROLIT                                ETL1           29,00  STRIP 
+  N0000010   NEURALGIN RX                             RAK1           13,00  STRIP 
+  N00000100  NUFADOL KAPS PCT                         ETL1            7,00  STRIP 
+  N0000011   NEUROBION 5000 TAB                       ETL1           25,00  STRIP 
+  N0000012   NEUROBION TAB                            ETL1           16,00  STRIP 
+  N0000014   NEUROSANBE PLUS                          RAK1           70,00  TAB 
+  N0000015   NEUROSANBE TAB                           ETL1            2,00  STRIP 
+  N0000016   NEW AS TAR OINT                          ETL2            3,00  TUBE 
+  N0000017   NEW DIATAB                               ETL1           21,00  STRIP 
+  N0000018   NIFEDIPIN 10MG                           RAK2            4,00  STRIP 
+  N0000021   NORIT                                    ETL1            4,00  BTL 
+  N0000024   NUTRIV BENECOL STRW                      SC              1,00  BTL 
+  N0000031   NASAL ASPIRATOR                          ETL4            1,00  PCS 
+  N0000033   NOURISHSKIN 30'S                         ETL5B           1,00  DUS 
+  N0000034   NEURODEX 200                             ETL1            7,00  STRIP 
+  N0000036   NITASAN                                  ETL5B           8,00  DUS 
+  N0000037   NIPPLE SHIELD RELIABLE                   ETL5B           4,00  PCS 
+  N0000045   NIZORAL CR 5GR                           RAK3            1,00  TUBE 
+  N0000053   NORELUT 5MG                              RAK1           30,00  TAB 
+  N0000058   NATUR E 32'S                             ETL5B          16,00  STRIP 
+  N0000068   NATUR E ADVANCE (16)                     ETL5B           1,00  BOX 
+  N0000070   NISAGON CR                               RAK3            6,00  TUBE 
+  N0000077   NUFADOL SYR 60ML                         ETL3A           3,00  BOTOL 
+  N0000078   NEBACETIN OINT 5GR                       RAK3            1,00  TUBE 
+  N0000083   NATUR E 300IU (16)                       ETL5B          16,00  STRIP 
+  N0000090   NUTRAFOR CHOL 60'S                       ETL5A           3,00  BLISTER 
+  N0000095   NEO KAOLAN SYR 120ML                     ETL1            2,00  BTL 
+  N0000103   NEBACETIN POWDER 5GR                     RAK3            1,00  BTL 
+  N0000110   NUFACORT CR                              RAK3            2,00  TUBE 
+  N0000111   NEOSANMAG FAST                           ETL1           41,00  STRIP 
+  N0000120   NYSTATIN DROP                            RAK4            2,00  BTL 
+  N0000121   NATUR E WHITE 16'S                       ETL5B           4,00  STRIP 
+  N0000122   NATUR E WHITE 32'S                       ETL5B           1,00  BOX 
+  N0000126   NATUR-E DAILY NOURISHING FACE MIST 95ML  ETL5B           1,00  BTL 
+  N0000127   NIVEA BODY SERUM INTENSIVE 180ML         ETL5B           1,00  PCS 
+  N0000129   NEXITRA TAB 500MG                        RAK1            8,00  STRIP 
+  N0000131   NUTRIVE FIBERSHOT 100ML                  SC              6,00  BTL 
+  N0000132   NEGATAL KAPSUL                           ETL5B           9,00  BTL 
+  N0000133   NEOCENTA GEL 15GR                        RAK3            2,00  TUBE 
+  N0000135   NESTLE PURE LIFE 330                     SC              2,00  BTL 
+  N0000137   NYTEX 200MG                              RAK1           37,00  STRIP 
+  N0000139   NIVEA CARE &  PROTECT SERUM 180ML        ETL5B           1,00  PCS 
+  N0000141   NEO VEDRIN DROPS 10ML                    ETL3A           2,00  BTL 
+  N000016    NOURISH ACNE PLAST BOY                   ETL5B           1,00  COVER 
+  N000017    NOURISH ACNE PLAST GIRL                  ETL5B           2,00  COVER 
+  N000020    NOVACYCLINE 250MG                        RAK1          150,00  TAB 
+  N00103     NUTRAFOR ACNE GEL                        ETL2            2,00  TUBE 
+  O0000002   OB HERBAL SYR                            ETL3A           7,00  BTL 
+  O0000003   OBH COMBI PLUS 100 ML MENTHOL            ETL3A           7,00  BTL 
+  O0000004   OBH COMBI PLUS 60 ML MENTHOL             ETL3A           1,00  BTL 
+  O0000005   ORPHEN                                   ETL1           27,00  STRIP 
+  O0000007   OBH COMBI PLUS ANAK STRAW                ETL3A           4,00  BTL 
+  O0000008   OB IBU&ANAK                              ETL3A           1,00  BTL 
+  O0000009   OBH COMBI DAHAK MENTHOL 100 ML           ETL3A           6,00  BTL 
+  O0000010   OBH NELLCO 100 ML                        ETL3A           1,00  BTL 
+  O0000012   OBH NELLCO 55 ML                         ETL3A           3,00  BTL 
+  O0000013   OMEPRAZOLE 20MG                          RAK2           18,00  STRIP 
+  O0000014   OMEPROS                                  ETL5A           1,00  BTL 
+  O0000015   ONDANSETRON 4MG                          RAK2            6,00  STRIP 
+  O0000016   ONDANSETRON 8MG                          RAK2            6,00  STRIP 
+  O0000018   OSKADON                                  ETL1           12,00  STRIP 
+  O0000019   OSKADON SP                               ETL1           16,00  STRIP 
+  O0000022   OTOLIN EAR DROP 10ML                     RAK4            1,00  FLS 
+  O0000025   OPISTAN                                  RAK1           20,00  STRIP 
+  O0000026   OXYCAN                                   ETL4            6,00  PCS 
+  O0000034   OKE PLAST                                ETL3B         297,00  PCS 
+  O0000035   OBP ITRASAL 100ML                        ETL3A           3,00  BTL 
+  O0000036   OBH MOLEX SYR                            ETL3A           4,00  BTL 
+  O0000037   OTOPAIN EAR DROP                         RAK4            1,00  FLS 
+  O0000044   OXYTETRACYCLIN CR                        RAK3           28,00  TUBE 
+  O0000046   OXOFERIN SOL 30                          RAK4            2,00  FLS 
+  O0000048   OB HERBAL JUNIOR 60ML                    ETL3A           3,00  BOTOL 
+  O0000051   OSTEOKOM 30'S                            ETL1           11,00  BLISTER 
+  O0000053   OBH ITRASAL 100ML                        ETL3A           1,00  BTL 
+  O0000055   OBH JERUK NIPIS                          ETL3A           4,00  BTL 
+  O0000060   OKE PLAST AMPLOP                         ETL3B          10,00  AMPLOP 
+  O0000061   ORSADERM CR 5GR                          RAK3            8,00  TUBE 
+  O0000073   ORALIT                                   ETL1           83,00  SCHET 
+  O0000074   OBAT KURAP CAIR 19                       ETL2           10,00  PCS 
+  O000070    OXICOBAL KAP                             RAK1            7,00  STRIP 
+  O0000701   OXIMETER                                 ETL3B           2,00  PCS 
+  P0000002   PANADOL                                  ETL1            7,00  STRIP 
+  P0000003   PANADOL EXTRA                            ETL1            9,00  STRIP 
+  P0000004   PANADOL FB                               ETL1            6,00  STRIP 
+  P0000009   PARAMEX                                  ETL1           75,00  STRIP 
+  P0000010   PARATUSIN TAB                            ETL1           17,00  STRIP 
+  P00000101  POLIDENT CEANSER                         ETL5B          12,00  PCS 
+  P0000012   PEDITOX                                  ETL2            8,00  BTL 
+  P0000013   PERBAN 10 CM                             ETL3B          52,00  ROL 
+  P0000014   PERBAN 5 CM                              ETL3B         185,00  ROL 
+  P0000017   PHARMATON FORMULA                        ETL1            9,00  STRIP 
+  P0000018   PHAROLIT SITRAS                          ETL1           49,00  SACH 
+  P0000019   PIL KITA                                 ETL1           60,00  STRIP 
+  P0000021   PIM TRA COLD LEMON                       ETL3A          10,00  BTL 
+  P0000023   PIROXICAM 20MG KAPSUL                    RAK2           16,00  STRIP 
+  P0000025   POLDANMIG                                ETL1           24,00  STRIP 
+  P00000252  PREGABALIN 150MG                         RAK2            2,00  STRIP 
+  P0000026   POLYSILANE SYR                           ETL1            5,00  BTL 
+  P0000027   POLYSILANE TAB                           ETL1           12,00  STRIP 
+  P0000028   PONSTAN 500MG                            RAK1          129,00  TAB 
+  P0000030   PRENAGEN ESENSIS CKLT 180G               ETL5A           2,00  BOX 
+  P0000031   PRENAGEN ESENSIS VNLA 180G               ETL5A           3,00  BOX 
+  P0000035   PRENAGEN MOMMY EMESIS CKLT 200G          ETL5A           1,00  BOX 
+  P0000036   PRENAGEN MOMMY EMESIS PLAIN 200G         ETL5A           1,00  BOX 
+  P0000039   PRIMOLUT-N                               RAK4            4,00  TAB 
+  P0000041   PROCOLD                                  ETL1           19,00  STRIP 
+  P0000043   PROMAG                                   ETL1           55,00  STRIP 
+  P0000044   PRONICY 4MG                              RAK1           90,00  TAB 
+  P0000045   PRORIS                                   ETL3A           7,00  BTL 
+  P0000046   PUYER 16 (ASP-16)                        ETL1           64,00  SACH 
+  P0000047   PYREXIN SYR 60ML                         ETL3A           5,00  BTL 
+  P0000048   PERMEN ANTANGIN                          ETL2        1.570,00  PCS 
+  P0000052   PRORIS FORTE                             ETL3A           4,00  BTL 
+  P0000053   KOTAK P3K                                ETL3B           4,00  KTK 
+  P0000059   PARACETAMOL SYR ERRITA                   ETL3A           1,00  BTL 
+  P0000061   PARFUM 10k                               ETL1           47,00  BTL 
+  P0000066   PRAXION SYR                              ETL3A           7,00  BTL 
+  P0000067   POLIDENT 60GR                            ETL2            2,00  TUBE 
+  P0000073   POT PLASTIK                              LOKER          12,00  PCS 
+  P0000074   PRAXION FORTE                            RAK4            2,00  BTL 
+  P0000078   PARACETAMOL MEF                          ETL1           56,00  STRIP 
+  P0000081   PKS                                      RAK3            3,00  TUBE 
+  P0000084   PRENAGEN MOMMY STRAW                     ETL5A           1,00  DUS 
+  P0000086   PLANTACID SUSP                           ETL1            1,00  BTL 
+  P0000089   PROCOLD FLU & BATUK                      ETL1           30,00  STRIP 
+  P0000090   PROMAG SUSPENSI                          ETL1           42,00  SACH 
+  P0000091   PRAXION DROP                             ETL3A           2,00  BTL 
+  P0000093   PIROXICAM 10MG TABLET                    RAK2           50,00  STRIP 
+  P0000094   PIROXICAM 20MG TABLET                    RAK2           91,00  STRIP 
+  P0000099   PARAMEX FLU DAN BATUK                    ETL1           29,00  STRIP 
+  P0000100   POLIDENT 15GR                            ETL2            8,00  TUBE 
+  P0000102   PYREXIN TAB                              ETL1            6,00  STRIP 
+  P0000103   PAGODA PASTILLES MINT 20GR               ETL2            4,00  POT 
+  P0000106   PROLACTA DHA BABY                        ETL5A          30,00  BUTIR 
+  P0000108   POLYCROL GEL                             ETL1            4,00  BTL 
+  P0000110   PABANOX CR 20GR                          ETL2            1,00  TUBE 
+  P0000113   KOTAK P3K MOBIL                          ETL3B           2,00  PCS 
+  P0000115   PARFUM 5k                                ETL1           34,00  BTL 
+  P0000116   PURE BABY RASH CR 50                     ETL2            1,00  PCS 
+  P0000117   PURE KIDS INHALANT OIL 10ML              ETL2            3,00  BTL 
+  P0000118   PROLACTA DHA MOTHER                      ETL5A          64,00  KAPSUL 
+  P0000119   POLYCROL FORTE TAB                       ETL1           21,00  STRIP 
+  P0000120   PACDIN BABY COUGH                        ETL3A           6,00  BTL 
+  P0000121   PRORIS TRIPLE ACTION                     ETL1           31,00  STRIP 
+  P0000122   PERBAN ELASTIS 15CM                      ETL3B           4,00  PCS 
+  P0000123   PERBAN ELASTIS 7.5CM                     ETL3B           4,00  PCS 
+  P0000127   PREGCY CHECK                             ETL3B          11,00  BOX 
+  P0000130   PONDEX SUSP                              RAK4            1,00  BTL 
+  P0000131   PROPEPSA 100ML                           RAK4            8,00  BTL 
+  P0000134   PIM TRA COLD CHERRY                      ETL3A          11,00  BTL 
+  P0000136   PISPOT COWOK + TUTUP                     ETL5B           1,00  PCS 
+  P0000137   PISPOT TANPA TUTUP                       ETL5B           1,00  PCS 
+  P0000143   PRONTO                                   RAK1            7,00  STRIP 
+  P0000145   PONDEX FORTE TAB                         RAK1           19,00  STRIP 
+  P0000160   PROSTAKUR KAP                            ETL5A           3,00  STRIP 
+  P0000162   PAGODA SALEP 10GR                        ETL2            7,00  POT 
+  P0000165   PARFUM AR-ROIHAN                         ETL1           27,00  BTL 
+  P0000166   PARFUM SPRAY AR-ROIHAN                   ETL1           23,00  BTL 
+  P0000168   PISPOT BAB                               ETL5B           1,00  PCS 
+  P0000171   PROTAGENTA                               ETL2            2,00  STRIP 
+  P0000175   PROPYLTHIOURACIL (PTU)                   RAK2            9,00  STRIP 
+  P0000176   PROPANOLOL 10MG                          RAK2           10,00  STRIP 
+  P0000177   XEPAMOL 60ML                             ETL3A           1,00  BTL 
+  P0000183   PERBAN METERAN                           ETL3B           3,00  POTONG 
+  P0000186   PERBAN 15CM                              ETL3B          58,00  ROLL 
+  P0000189   PARAMEX NYERI OTOT                       ETL1           33,00  STRIP 
+  P0000190   PAGODA PASTILES 10 G                     ETL2            3,00  PCS 
+  P0000191   BEDAK PIGEON 100GR                       ETL3B           1,00  BTL 
+  P0000197   POLOFAR PLUS                             RAK1           11,00  STRIP 
+  P0000203   PROBIOKID                                KULKAS         10,00  SACH 
+  P0000204   PIMACOLIN APPLE SYR                      ETL3A           1,00  BTL 
+  P0000208   PASABA SYR 60ML                          ETL3A           3,00  BTL 
+  P0000215   PACETIK 500MG                            ETL1            2,00  STRIP 
+  P0000216   PACETIK SYR                              ETL3A           1,00  BTL 
+  P0000220   PROTEN RASA VANILA                       ETL1            2,00  SACH 
+  P0000227   PACEKAP BLISTER                          ETL2            2,00  BLISTER 
+  P0000233   PARFUM CAHAYA                            ETL1           10,00  BTL 
+  P0000234   PERBAN ELASTIS 10CM                      ETL3B           2,00  PCS 
+  P0000235   PLOSSA EUCALYPTUS                        ETL2           17,00  PCS 
+  P0000237   PAINKILA CR 15GR                         ETL2            2,00  TUBE 
+  P0000238   PERMETHRINE 15GR                         RAK3            2,00  TUBE 
+  P0000240   PARAMEX SK                               ETL1            9,00  STRIP 
+  P0000245   EXECUTIVE PARFUME                        ETL1           12,00  BTL 
+  P0000246   PURE KIDS HAND SANITIZER 50ML            ETL5B           3,00  BTL 
+  P0000247   PURE KIDS AWS GRAPE 20'S                 ETL5B           1,00  PCS 
+  P0000248   PROBABY COLOGNE 100ML                    ETL5B           2,00  BTL 
+  P0000250   PROBABY BATH ANISE OIL 100ML             ETL5B           2,00  BTL 
+  P0000251   PREGABALIN KAPSUL 75MG                   RAK2            2,00  STRIP 
+  P0000255   PROMAG SUSPENSI BTL 60ML                 ETL1            4,00  BTL 
+  P0000256   PLOSSA MINI HOT                          ETL2           16,00  PCS 
+  P0000257   PLOSSA MINI EUCALYPTUS                   ETL2           19,00  PCS 
+  P0000258   PURE BABY WARMING OIL 60ML               ETL2            1,00  PCS 
+  P0000260   PIPET DROP                               ETL3B           5,00  PCS 
+  P0000262   PANTOPRAZOLE TAB 40MG                    RAK2            2,00  STRIP 
+  P0000264   PRIMA PROTEC DISINFECTAN                 ETL3B           3,00  BTL 
+  P0000265   PRIMA FACE MASK 10+1                     ETL3B           1,00  PACK 
+  P0000266   PRIMA FACE MASK 5'S                      ETL3B          10,00  PACK 
+  P0000267   PRIMA PROTECT HAND SOAP 240ML            ETL3B           5,00  BTL 
+  P0000268   PRIMA PROTECT HAND SOAP 500ML            ETL3B           5,00  BTL 
+  P0000269   PASTIK                                   ETL3A           2,00  BOX 
+  P0000271   PROBABY SHAMPO 100ML                     ETL5B           2,00  BTL 
+  P0000272   PRIMA PROTECT HAND SANITIZER 5L          ETL3B           1,00  DRIGEN 
+  P0000273   PRIMA DISINFECTAN 240ML                  ETL3B           3,00  BTL 
+  P0000275   PROBABY BATH ANISE OIL 200ML             ETL5B           1,00  BTL 
+  P0000276   PROBABY BANDED LIQUID CLEANSER           ETL5B           1,00  PCS 
+  P0000277   PROBABY BATH BODY&HAIR 100ML             ETL5B           2,00  BTL 
+  P0000728   PRIMA PROTECT HANDSANITIZER 50ML         ETL3B           6,00  BTL 
+  P000098    PASABA COUGH & FLU                       ETL3A           3,00  BTL 
+  P001       PERMEN                                                  70,00  set 
+  R0000001   RANITIDINE 150MG                         RAK2           27,00  STRIP 
+  R0000003   REDOXON EFF ORANGE                       ETL3A           5,00  TUBE 
+  R0000004   RENABETIC 5 MG                           RAK1          250,00  TAB 
+  R0000006   RENOVIT KAPLET                           ETL1            7,00  STRIP 
+  R00000079  RHINOFED SYR 60ML                        ETL3A           3,00  SYR 
+  R0000010   RHINOS SR 5X10'S                         RAK1          117,00  KAP 
+  R00000102  RELIABLE COTTON BUDS DWS REFFIL  60'S    ETL5B           7,00  PCS 
+  R0000013   RODECA TALK                              ETL3B           3,00  BTL 
+  R0000014   ROHTO                                    ETL2            8,00  BTL 
+  R0000015   ROHTO COOL                               ETL2           12,00  BTL 
+  R0000055   RIVANOL SOL 100ML                        ETL3B          10,00  BTL 
+  R0000065   RIVANOL SOL 300ML                        ETL3B           7,00  BTL 
+  R0000068   REFAQUIN 15GR                            RAK3            4,00  TUBE 
+  R0000072   RESIK V MANJAKANI 90ML                   ETL5B           2,00  BTL 
+  R0000073   RENOVIT GOLD 30                          ETL1            2,00  BTL 
+  R0000074   RENADINAC 50MG                           RAK1           15,00  STRIP 
+  R0000078   RHINOFED TAB                             RAK1           50,00  TAB 
+  R0000081   RESIK V MANJAKANI 50ML                   ETL5B           2,00  BTL 
+  R0000083   RENOVIT GOLD                             ETL1            2,00  STRIP 
+  R0000085   RESIK V MANJAKANI WHITENING 90ML         ETL5B           1,00  BTL 
+  R0000087   RHINOS NEO DROP 10ML                     ETL3A           6,00  BTL 
+  R0000088   RHINOS JUNIOR SYR 60ML                   ETL3A           5,00  BTL 
+  R0000089   REMAFAR                                  RAK1           10,00  STRIP 
+  R0000090   RANACID FORTE TAB                        ETL1           12,00  STRIP 
+  R0000091   RENAX KAP                                ETL5A          34,00  KAPSUL 
+  R0000094   ROVERTON SYR                             RAK4            2,00  BTL 
+  R0000095   ROVERTON TAB                             RAK1            8,00  STRIP 
+  R0000096   REMCO                                    ETL3A           4,00  BTL 
+  R0000099   RELIABLE DOT                             ETL5B           6,00  BTL 
+  R00001     REBAL PLUS                               RAK1           10,00  STRIP 
+  R0000102   RELIABLE COTTON BUDS DWS REFFIL 100'S    ETL5B          13,00  PCS 
+  R0000103   RELIABLE COTTON BUDS BABY REFIL 125'S    ETL5B          14,00  PCS 
+  R0000106   RELIABLE SILICON TEETHER                 ETL5B           1,00  PCS 
+  R0000107   RELIABLE KOTAK BEDAK                     ETL3B           1,00  PCS 
+  R0000111   RENOVIT 30'S                             ETL1            4,00  BTL 
+  R0000114   RELIABLE COTTON BUDS BABY REFFIL 75"S    ETL5B          13,00  PCS 
+  R0000115   REXAVIN 125MG                            RAK1            3,00  STRIP 
+  R0000116   REGULATOR OXYGEN                         ETL4            1,00  PCS 
+  S0000001   SAFE CARE                                ETL2            9,00  BTL 
+  S0000003   SAKATONIK ABC ANGGUR                     ETL4            3,00  BTL 
+  S0000004   SAKATONIK ABC JERUK                      ETL4            3,00  BTL 
+  S0000005   SAKATONIK ABC STRAW                      ETL4            3,00  BTL 
+  S0000006   SAKATONIK LIVER 100ML                    ETL3A           2,00  BTL 
+  S0000007   SAKATONIK LIVER 310ML                    ETL3A           2,00  BTL 
+  S0000008   SALBUTAMOL 2MG                           RAK2           47,00  STRIP 
+  S0000009   SALBUTAMOL 4MG                           RAK2           74,00  STRIP 
+  S0000012   SALEP 88                                 ETL2           20,00  POT 
+  S0000013   SALEP ICHTYOL 15GR                       ETL2           21,00  POT 
+  S00000132  SUSU KUDA LIAR SUMBAWA                   ETL1            2,00  BTL 
+  S00000154  SELANG OKSIGEN+MASKER                    ETL3B           1,00  PCS 
+  S0000017   SALONPAS GEL KECIL                       ETL2            1,00  TUBE 
+  S0000019   SALONPAS HOT                             ETL2           38,00  PCS 
+  S0000020   SALYCIL TALK (KF)                        ETL3B           5,00  POT 
+  S0000022   SANAFLU                                  ETL1           13,00  STRIP 
+  S0000023   SANGOBION (10)                           ETL1           13,00  STRIP 
+  S00000233  SARI KURMA TJ 250GR                      ETL2            5,00  BTL 
+  S0000024   SANGOBION (4)                            ETL1            9,00  STRIP 
+  S0000025   SANMOL DROP                              ETL3A          10,00  BTL 
+  S0000026   SANMOL SYR                               ETL3A          12,00  BTL 
+  S0000027   SANMOL TAB 500MG                         ETL1           27,00  STRIP 
+  S0000029   SARIDON                                  ETL1           32,00  STRIP 
+  S0000030   SCABIMITE 10G                            RAK3            4,00  TUBE 
+  S0000031   SCABIMITE 30G                            RAK3            2,00  TUBE 
+  S0000032   SCOTT VITA 200 ML                        ETL4            2,00  BTL 
+  S0000035   SENSITIF TEST KEHAMILAN                  ETL3B           4,00  PCS 
+  S0000039   SIMVASTATIN 10MG                         RAK2           14,00  STRIP 
+  S0000040   SIMVASTATIN 20MG                         RAK2           26,00  STRIP 
+  S0000042   SRITI                                    ETL2           12,00  TUBE 
+  S0000044   STOP COLD                                ETL1           17,00  STRIP 
+  S0000045   STOP X                                   ETL2            2,00  TUBE 
+  S0000046   SUPER MAGIC                              ETL3B           4,00  BOX 
+  S0000047   SUPERTETRA                               RAK1            6,00  STRIP 
+  S0000048   SUTRA 3'S                                ETL3B           7,00  AMPLOP 
+  S0000049   SUTRA OK 3'S                             ETL3B          26,00  AMPLOP 
+  S0000054   STRIP GULA DARAH                         MEJA          140,00  STRIP 
+  S0000055   STRIP KOLESTEROL                         MEJA           32,00  STRIP 
+  S0000056   STRIP ASAM URAT                          MEJA          145,00  STRIP 
+  S0000057   SENSI GLOVE                              ETL3B         584,00  PCS 
+  S0000060   SUPRAVIT BOTOL                           ETL1            3,00  BTL 
+  S0000061   SUPERHOID SUPP                           KULKAS         25,00  SUPP 
+  S0000065   SALEP 2-4                                ETL2           21,00  POT 
+  S0000069   SALONPAS KOYO IJO 5X2                    ETL2           17,00  SACH 
+  S0000070   SUTRA CO'12                              ETL3B           7,00  DUS 
+  S0000071   SENDOK TAKAR                             LOKER         115,00  PCS 
+  S0000075   SARI KURMA SAHARA                        ETL2            6,00  BTL 
+  S0000076   SENSI MASK EARLOOP 3PLY (PINK)           ETL3B          48,00  PACK 
+  S0000077   SENSI MASK EARLOOP 3PLY (anak)           ETL3B           5,00  PACK 
+  S0000078   SANMAG SUSP                              ETL1            5,00  BTL 
+  S0000081   SUTRA OK'12                              ETL3B           5,00  DUS 
+  S0000085   STIMUNO ANGGUR 60ML                      ETL3A           2,00  BTL 
+  S0000087   STIMUNO FORTE CAPSUL                     ETL1            5,00  DUS 
+  S0000089   SIMVASTATIN 10MG DEXA                    RAK2           38,00  BLISTER 
+  S0000090   SENSI POPOK DEWASA (L)                   ETL5B           1,00  PACK 
+  S0000095   SITRONELA 60ML                           ETL2            5,00  BTL 
+  S0000096   SISIR BAYI                               ETL5B           1,00  PCS 
+  S0000100   SUPER MAGIC CASANOVA                     ETL3B           5,00  BOX 
+  S0000102   SPUIT 3CC OM                             LOKER          33,00  PCS 
+  S0000108   SPUIT 1CC TERUMO                         LOKER          69,00  PCS 
+  S0000115   SILADEX  ME 100ML (HIJAU)                ETL3A          12,00  BTL 
+  S0000116   SITRONELA 30ML                           ETL2            3,00  BTL 
+  S0000119   SAKATONIK ABC ANTARIKSA                  ETL4            3,00  BTL 
+  S0000121   SABUN PEPAYA                             ETL5B           4,00  PCS 
+  S0000124   SUTRA CO '24                             ETL3B           3,00  PCS 
+  S0000125   SERETIDE INHALER 50                      RAK4            1,00  CAN 
+  S0000128   SILADEX ME 30ML (HIJAU)                  ETL3A           1,00  BTL 
+  S0000132   SARI KACANG IJO 250ML                    SC             11,00  PCS 
+  S0000140   SOMAN                                    ETL2            5,00  BTL 
+  S0000143   SUTRA PLUS 12'S                          ETL3B           5,00  PCS 
+  S0000144   SEVENSEAS KIDS 100ML                     ETL3A           1,00  BTL 
+  S0000146   SPIRONOLACTON 25MG                       RAK2            5,00  STRIP 
+  S0000147   SANBE TEARS 8ML                          ETL2            1,00  BTL 
+  S0000148   SYNALTEN CR                              RAK3            9,00  TUBE 
+  S0000149   SERETIDE INH 125                         RAK4            1,00  CAN 
+  S0000151   SPUIT 10CC                               LOKER          63,00  PCS 
+  S0000153   SELANG OKSIGEN                           ETL4            1,00  PCS 
+  S0000155   SARI KURMA AL JAZIRA                     ETL2            4,00  BTL 
+  S0000158   SANGOBION KIDS 100ML                     ETL3A           1,00  BTL 
+  S0000163   SILADEX CC 100 ML (BIRU)                 ETL3A           4,00  BTL 
+  S0000168   SUM CREAM                                ETL2            5,00  BTL 
+  S0000170   SENSODENT FRESH MINT 50GR                ETL5B           2,00  TUBE 
+  S0000172   SANBE KIDS EMULSION                      ETL4            1,00  BOTOL 
+  S0000173   SOLINFEC CR                              ETL2            8,00  TUBE 
+  S0000175   KLINSEN SHOWER CREAM 500ML               ETL5B           1,00  PCS 
+  S0000176   SALICYL DRAGON                           ETL3B           3,00  BTL 
+  S0000180   SARI KACANG IJO 150ML                    SC             17,00  KOTAK 
+  S0000181   SELVIM                                   RAK1            4,00  STRIP 
+  S0000182   SP TROCHES MELON                         ETL5B           2,00  BOX 
+  S0000183   SP TROCHES STRAWBERRY                    ETL5B           6,00  BOX 
+  S0000190   SARI KURMA MADU PLUS ANGKAK              ETL1            2,00  BTL 
+  S0000192   SANTA E 400IU                            RAK1            2,00  STRIP 
+  S0000193   SOLINFEC TAB                             RAK1            6,00  STRIP 
+  S0000194   SCANDERMA PLUS CR 10G                    RAK3            1,00  TUBE 
+  S0000196   SANMOL FORTE SYR 60ML                    ETL3A          10,00  BTL 
+  S0000204   STIMUNO FORTE BTL (30)                   ETL1            2,00  BTL 
+  S0000205   SUCRALFAT SYR 500MG                      RAK4            1,00  BOTOL 
+  S0000206   SANADRYL SYR                             ETL3A           3,00  BTL 
+  S0000208   SAN-B PLEX DROPS                         ETL3A           2,00  BTL 
+  S0000211   SILDENAFIL CITRATE 50MG                  RAK2            2,00  TAB 
+  S0000212   STATURE METER                            ETL3B           4,00  PCS 
+  S0000215   SKIZON CR 10GR                           RAK3            2,00  TUBE 
+  S0000218   SELSUN BLUE                              ETL5B           3,00  BTL 
+  S0000219   SELSUN DOUBLE IMPACT                     ETL5B           2,00  BTL 
+  S0000225   SILADEX DMP 30ML                         ETL3A           6,00  BTL 
+  S0000226   STIMUNO SYR ORANGE 60ML                  ETL4            3,00  BTL 
+  S0000232   SILADEX DMP 100ML                        ETL3A           7,00  BTL 
+  S0000238   SUTRA GERIGI 3'S                         ETL3B           4,00  PCS 
+  S0000240   SUPERTIN TABLET                          ETL1            2,00  AMPLOP 
+  S0000241   SELSUN DOUBLE IMPACT 100ML               ETL5B           2,00  BTL 
+  S0000242   SELSUN BLUE 120ML                        ETL5B           2,00  BTL 
+  S0000243   SUTRA GERIGI 12'S                        ETL2            6,00  PCS 
+  S0000246   SARIAMAN GEL                             ETL2            6,00  TUBE 
+  S0000250   SILICONE PIGEON STEP 2A                  ETL5B           1,00  PCS 
+  S0000253   SANGOBION BABY 30ML                      ETL5B           1,00  BTL 
+  S0000255   SKIZON 5GR                               RAK3            2,00  TUBE 
+  S0000260   SENSI MASK DUCKBILL 50'S KARET           ETL3B           3,00  PCS 
+  S0000264   STERIONE SPRAY DESINFECTANT              ETL3B           1,00  BTL 
+  S0000266   SD COTTON BUD ANAK BTL                   ETL5B           1,00  BTL 
+  S0000268   SENSI CONVEX MASK 2'S                    ETL3B           1,00  PACK 
+  S0000270   SOFFEL SPRAY 80ML GERANIUM               ETL2            1,00  BTL 
+  S0000272   SUCRALFATE SUSP 500MG HOLI               RAK4            1,00  BTL 
+  S0000273   SKRINEER EARLOOP 5'S                     ETL3B           3,00  PACK 
+  S0000274   SNAKE BRAND POWDER 300GR COOL PINK       ETL3B           1,00  KLNG 
+  S0000711   SD WASH GLOVES 2'S                       ETL2            3,00  PCS 
+  S0000789   SAFE CARE STRONG                         ETL2           18,00  BTL 
+  S0000790   SUTRA OK'24                              ETL3B           6,00  DUS 
+  S0000791   SANCOIDAN KAPSUL                         ETL1            3,00  STRIP 
+  S0000792   SARI KURMA TROMBOSIT BESAR               ETL1            1,00  BTL 
+  S0000793   SARI KURMA TROMBOSIT KECIL               ETL1            1,00  BTL 
+  S0000795   SUSU 7 KURMA                             SC              2,00  KLNG 
+  S000080    SARANG SEMUT SUPER                       ETL1            4,00  BTL 
+  S000081    SARI KURMA PRIMA JAMBU                   ETL1            1,00  BTL 
+  S000082    PUTRI SLIM                               ETL2            2,00  BTL 
+  S000170    SARI MENGKUDU PRIMA                      ETL1            2,00  BTL 
+  S000184    SP TROCHES 6'S                           ETL5B           9,00  STRIP 
+  S000206    SUCRALFAT TAB 500MG                      RAK2           10,00  STRIP 
+  T0000001   TAWON DD                                 ETL2            2,00  BTL 
+  T0000002   TAWON EE                                 ETL2            1,00  BTL 
+  T0000003   TAY PIN SAN                              ETL1           52,00  SACH 
+  T0000004   TEOSAL                                   RAK1          450,00  TAB 
+  T0000005   TERMOREX 60 ML                           ETL3A           3,00  BTL 
+  T0000010   THROMBO ASPILETS                         RAK1          120,00  TAB 
+  T0000011   THROMBPHOP GEL                           ETL2            1,00  TUBE 
+  T0000013   TOLAK ANGIN ANAK                         ETL5B          32,00  SACH 
+  T0000014   TOLAK ANGIN CAIR                         ETL5B          79,00  SACH 
+  T0000015   TONIKUM BAYER (B)                        ETL5B           2,00  BTL 
+  T0000016   TONIKUM BAYER (K)                        ETL5B           2,00  BTL 
+  T0000018   TRIFED SYR 60ML                          RAK1            1,00  BTL 
+  T0000021   TROPICANA SLIM DIABETICS 25'S            ETL5A           2,00  BOX 
+  T0000028   TEMPRA SYR 60ML                          ETL3A           1,00  BTL 
+  T0000029   TEMPRA DROPS 15 ML                       ETL3A           1,00  BTL 
+  T0000031   TERMOREX PLUS 60 ML                      ETL3A           9,00  BTL 
+  T0000032   TIMBANGAN BADAN                          ETL5B           1,00  PCS 
+  T0000033   DIE DA YAO GIN                           ETL3B           1,00  BTL 
+  T0000039   TREMENZA                                 RAK1           21,00  STRIP 
+  T0000043   TROPICANA SLIM DIABETIC 50'S             ETL5A           2,00  DUS 
+  T0000044   THERMOLYTE PLUS 60'S                     ETL5A           4,00  BLIST 
+  T0000047   THERMOLYTE DIET SUGAR 50'S               ETL5A           2,00  BOX 
+  T0000052   TREMENZA SYR                             ETL3A           7,00  BTL 
+  T0000053   TROPICANA SLIM CLASSIC 50'S              ETL5A           2,00  BOX 
+  T0000058   THROMBOPHOB OINT                         ETL2            1,00  TUBE 
+  T0000063   TEH KOTAK 200ML                          SC             28,00  KOTAK 
+  T0000064   TIMBANGAN DIGITAL                        ETL5B           1,00  PCS 
+  T0000067   TRANSFULMIN BABY 10GR                    ETL2            2,00  TUBE 
+  T0000068   TAY PIN SAN CAIR                         ETL1           45,00  SACH 
+  T0000071   TUZALOS                                  ETL1           27,00  STRIP 
+  T0000077   TEH JATI CINA CELUP                      ETL5B           2,00  PCS 
+  T0000078   TJ JOYBEE                                ETL2            3,00  BTL 
+  T0000079   TOLAK LINU                               ETL5B          40,00  SACHET 
+  T0000083   MINYAK TAWON FF                          ETL2            1,00  BTL 
+  T0000086   TENSI ANAROID SERENITY                   ETL5B           1,00  PCS 
+  T0000087   TERMOREX PLUS 30ML                       ETL3A           6,00  BTL 
+  T0000089   TJ JOYBEE ORIGINAL                       ETL2            4,00  BTL 
+  T0000091   TERRA F KAPSUL                           ETL1          101,00  STRIP 
+  T0000092   THROMECON 20GR                           ETL2            1,00  TUBE 
+  T0000093   TERMOREX 30ML                            ETL3A           8,00  BTL 
+  T0000095   TRANSPULMIN BB 10G                       ETL2            2,00  TUBE 
+  T0000096   TRIAMCINOLONE 5GR                        RAK3            1,00  TUBE 
+  T0000097   TEH PUCUK 350ML                          SC             16,00  BTL 
+  T0000100   TJ JOYBEE STROWBERY                      ETL2            5,00  BTL 
+  T0000101   THERMOMETER DIGITAL OMRON                ETL5B           3,00  PCS 
+  T0000103   TRIAMCINOLONE 4MG TAB                    RAK2            5,00  STRIP 
+  T0000104   TRANSPULMIN KIDS 20GR                    ETL2            1,00  TUBE 
+  T0000105   TISU MONTISS 250'S                       ETL5B           4,00  PCS 
+  T0000106   TOPICARE CLEANSER 90ML                   ETL5B           4,00  PCS 
+  T000080    TRIANTA                                  ETL1            7,00  STRIP 
+  T000082    TESTPACK                                 ETL3B          24,00  STRIP 
+  T000088    TROPICANA SLIM CLASIC 25'S               ETL5A           2,00  BOX 
+  T000089    TAWON CC                                 ETL2            2,00  BTL 
+  T000090    TJ JOYBE GROW EMULSIOM 200ML             ETL4            2,00  BTL 
+  T000095    TAKAHI PLASTER                           ETL2           22,00  PCS 
+  T000099    TRISELA 10MG                             RAK1            8,00  STRIP 
+  U0000002   ULTRACILLINE                             ETL2           16,00  TUBE 
+  U0000003   ULTRACYN BABY KECIL                      ETL3B           4,00  BTL 
+  U0000005   ULTRAFLU                                 ETL1           81,00  STRIP 
+  U0000009   ULTRAFIX 10X5                            ETL3B           1,00  ROL 
+  U0000011   ULTRACAP                                 ETL1           12,00  STRIP 
+  U0000012   UNDERPAD SENSI                           ETL5B          20,00  PCS 
+  U0000013   ULTRA COKLAT 125                         SC             67,00  KOTAK 
+  U0000015   ULTRA STROWBERY 125                      SC             41,00  KOTAK 
+  U0000018   ULTRAMILK COKLAT 250                     SC             23,00  PCS 
+  U0000019   ULTRA MIMI COKLAT 125                    SC             51,00  PCS 
+  U0000023   ULTRAFIX 5 X 5                           ETL3B           2,00  ROLL 
+  U0000025   ULTRACYN DWS                             ETL3B           5,00  BTL 
+  U0000028   ULTRA MILK TARO 200ML                    SC             14,00  BTL 
+  V0000001   VEGETA HERBAL                            ETL4           39,00  SACH 
+  V0000002   VEGETA JERUK                             ETL4           49,00  SACH 
+  V00000029  VOLTAREN 50MG                            RAK1           59,00  TAB 
+  V0000005   VERILE ACNE  GEL                         ETL2            2,00  TUBE 
+  V0000006   VERMINT 12'S                             ETL2           29,00  BTL 
+  V0000007   VERMINT 30'S                             ETL2            8,00  BTL 
+  V000001    VOLTAREN BALSEM 20g                      ETL2            2,00  BTL 
+  V0000011   VICEE STRAW                              ETL5B         426,00  STRIP 
+  V0000012   VICKS F44 ANAK 27 ML                     ETL3A           5,00  BTL 
+  V0000013   VICKS F44 ANAK 54 ML                     ETL3A           1,00  BTL 
+  V0000014   VICKS F44 DT SACHET                      ETL1           15,00  SACH 
+  V00000145  VITAMIN B12                              ETL1           11,00  STRIP 
+  V0000015   VICKS F44 DWS 100 ML                     ETL3A           5,00  BTL 
+  V0000016   VICKS F44 DWS 27 ML                      ETL3A           3,00  BTL 
+  V0000018   VICKS VAPORUB 25G                        ETL2            6,00  PCS 
+  V0000019   VIGEL                                    ETL3B           6,00  TUBE 
+  V0000020   VIOSTIN DS                               ETL1            9,00  STRIP 
+  V0000021   VIRUGON                                  ETL2            1,00  TUBE 
+  V0000023   VITACIMIN                                ETL5B           9,00  STRIP 
+  V0000024   VITALONG C (30)                          ETL1            3,00  BTL 
+  V0000025   VITALONG C (4)                           ETL1           25,00  STRIP 
+  V0000026   VITAQUIN CR 15G                          RAK3            3,00  TUBE 
+  V0000027   VOLTADEX50MG                             RAK1          210,00  TAB 
+  V0000031   VOLTAREN GEL 5GR                         ETL2            1,00  TUBE 
+  V0000032   VEGE BLEND                               ETL5A           1,00  BTL 
+  V0000034   VALDRES 25MG                             RAK1          107,00  TAB 
+  V0000036   VEGEBLEND JR 30'                         ETL5A           1,00  BTL 
+  V0000037   VICKS VAPORUB 10                         ETL2            4,00  POT 
+  V0000038   VITAL TT                                 ETL2            9,00  FLS 
+  V0000040   VIRJINT SYR                              ETL2           13,00  BTL 
+  V0000041   VICKS F44 DWS 54ML                       ETL3A           2,00  BTL 
+  V0000044   VENARON                                  ETL1           20,00  STRIP 
+  V0000045   VENTOLIN NEBULES                         RAK4           25,00  VIAL 
+  V0000046   VIDORAN SMART 100ML                      ETL3A           4,00  BTL 
+  V0000050   VENTOLIN INHALER                         RAK4            1,00  PCS 
+  V0000051   V FRESH ORIGINAL                         ETL2            5,00  BTL 
+  V0000052   V FRESH HOT 8ML                          ETL2            6,00  BTL 
+  V0000066   VITACID 0,1%                             RAK3            1,00  TUBE 
+  V0000079   VITACID 0.025%                           RAK3            1,00  TUBE 
+  V0000081   VERILE BLEMISH CREAM                     ETL2            4,00  TUBE 
+  V0000087   VECTRINE DRY SYRUP                       RAK4            1,00  BOTOL 
+  V0000093   VOSEA SYR 30ML                           RAK4            2,00  BTL 
+  V0000096   VIDORAN SMART STROW TABLET               ETL4            1,00  BTL 
+  V0000099   VIGEL 60g                                ETL3B           3,00  TUBE 
+  V0000100   VITAMIN B6                               ETL1           15,00  STRIP 
+  V0000101   VITAMIN B1 50 mg                         ETL1           16,00  STRIP 
+  V0000105   VISANCORT CREAM                          RAK3            2,00  TUBE 
+  V0000106   VENARON HD                               ETL1            5,00  STRIP 
+  V0000109   VITACIMIN BOX                            ETL5B         113,00  STRIP 
+  V0000110   VITAMIN C 250MG                          ETL1           42,00  STRIP 
+  V0000113   VITAMIN C 100MG POT                      ETL5B           4,00  BTL 
+  V0000115   VESPERUM SYR 60ML                        RAK4            3,00  BTL 
+  V0000116   VEDRIN SIRUP 60ML                        ETL3A           2,00  BTL 
+  V000025    VESPERUM TAB                             RAK1           14,00  STRIP 
+  V000085    VOSEA                                    RAK1            7,00  STRIP 
+  W0000001   WAISAN                                   ETL1           24,00  SACH 
+  W0000002   WOODS ANTITUSIF 100ML                    ETL3A           6,00  BTL 
+  W0000003   WOODS ANTITUSIF 60ML                     ETL3A          11,00  BTL 
+  W0000004   WOODS EXP 100ML                          ETL3A           2,00  BTL 
+  W0000005   WOODS EXP 60ML                           ETL3A           7,00  BTL 
+  W0000009   WWZ                                      ETL5B           1,00  PCS 
+  W0000012   WHITE-NENG                               ETL2            3,00  TUBE 
+  W0000020   WIROS 20MG                               RAK1           13,00  STRIP 
+  W0000027   WELMOVE                                  ETL1           14,00  STRIP 
+  W0000029   WINATIN                                  RAK1           10,00  STRIP 
+  W0000032   MADU WELLERYROYAL JELLY 650ML            ETL1           12,00  BTL 
+  W0000033   WARMAX HONEY LEMON SACHET 25GR           ETL5A           3,00  BOX 
+  X0000001   XENICAL                                  RAK1           20,00  TAB 
+  Y000001    YUSIMOX SYR                              RAK4            6,00  BTL 
+  Y000003    YUSIMOX FORTE SYR                        RAK4            4,00  BTL 
+  Y000004    YAKULT                                   SC             89,00  BTL 
+  Y000006    YUSIMOX TAB                              RAK1           16,00  STRIP 
+  Z0000002   ZORALIN                                  RAK1          170,00  TAB 
+  Z0000007   ZINK DISPERSIBEL TAB                     ETL1           14,00  STRIP 
+  Z0000008   ZEE COKLAT 200ML                         SC             18,00  KTK 
+  Z0000009   ZEE STRAWBERRY 200ML                     SC             14,00  KTK 
+  Z0000010   ZHENG GU SHUI 30ML                       ETL2            2,00  PCS 
+  Z0000011   ZHENG GU SHUI 60ML                       ETL2            2,00  PCS 
+  Z0000013   ZEGAVIT                                  ETL1           12,00  STRIP 
+  Z0000014   ZELONA TAB                               RAK1           12,00  STRIP 
+  Z000003    ZELIRIS CR                               RAK3            4,00  TUBE 
+  Z000006    ZAMBUK                                   ETL2            2,00  PCS 
+  Z000007    ZORALIN CR                               RAK3            1,00  TUBE 
+  Z000009    ZEVASK                                   RAK1           10,00  STRIP 
+--------------------------------------------------------------------------------------- 
+ 
