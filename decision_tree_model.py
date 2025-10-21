@@ -24,7 +24,15 @@ import matplotlib.pyplot as plt
 
 
 def _read_csv_auto_delim(path: str) -> pd.DataFrame:
-    """Coba baca CSV dengan delimiter ; lalu ,."""
+    """
+    Coba baca CSV menggunakan pemisah ';' lalu fallback ke ',' jika diperlukan.
+
+    Args:
+        path: path ke file CSV.
+
+    Returns:
+        DataFrame hasil pembacaan.
+    """
     try:
         df = pd.read_csv(path, sep=";", low_memory=False)
         if df.shape[1] == 1:
@@ -39,14 +47,14 @@ def prepare_features(
     stok_path: str,
 ) -> Tuple[pd.DataFrame, pd.Series, List[str], pd.DataFrame]:
     """
-    Aggregate transaksi pembelian per kode, join dengan stok, siapkan fitur & label.
+    Agregasi transaksi pembelian per kode, gabungkan dengan stok, dan siapkan fitur & label.
 
     Returns:
         X, y, feature_names, base_df
         - X: fitur numerik
         - y: target biner (1=High, 0=Low)
-        - feature_names: nama kolom fitur
-        - base_df: DataFrame yang memuat `kode`, fitur, `qty_stok`, dan `stock_high`
+        - feature_names: daftar nama fitur
+        - base_df: DataFrame berisi `kode`, fitur, `qty_stok`, dan `stock_high`
     """
     # --- Pembelian ---
     df_pemb = _read_csv_auto_delim(pembelian_path)
@@ -93,7 +101,7 @@ def train_decision_tree(
     max_depth: int | None = None,
 ) -> Tuple[pd.DataFrame, pd.Series, DecisionTreeClassifier, List[str], pd.DataFrame]:
     """
-    Train Decision Tree classifier.
+    Latih classifier Decision Tree.
 
     Returns:
         X, y, clf, feature_names, base_df
@@ -111,10 +119,10 @@ def predict_and_export(
     out_pred_csv: str,
 ) -> pd.DataFrame:
     """
-    Buat prediksi (label & probabilitas) dan simpan ke CSV.
+    Buat prediksi label dan probabilitas, lalu simpan hasil ke CSV.
 
-    Output CSV kolom:
-    - kode, qty_msk, qty_klr, nilai_msk, nilai_klr, qty_stok, stock_high (label_asli),
+    Output CSV berisi kolom:
+    - kode, qty_msk, qty_klr, nilai_msk, nilai_klr, qty_stok, stock_high (label asli),
       pred_label, prob_low, prob_high
     """
     proba = model.predict_proba(X)
@@ -134,7 +142,7 @@ def export_feature_importance(
     feature_names: List[str],
     out_csv: str,
 ) -> pd.DataFrame:
-    """Simpan feature importance ke CSV."""
+    """Simpan feature importance ke CSV dalam Bahasa Indonesia."""
     fi = pd.DataFrame({
         "feature": feature_names,
         "importance": model.feature_importances_,
