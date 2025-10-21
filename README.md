@@ -132,7 +132,9 @@ Keterangan singkat:
 - zscore: menandai baris dimana |(value - mean)/std| > threshold.
 - iqr: menandai baris di luar [Q1 - factor*IQR, Q3 + factor*IQR].
 
+
 ## 📁 Struktur Repositori
+```
 .
 ├── data_original/     # Data mentah asli (.tsv)
 ├── data_cleaned/      # Output Tahap 1: Data bersih (.csv)
@@ -146,4 +148,5 @@ Keterangan singkat:
 ├── decision_tree_model.py # Script Tahap 4 (Pemodelan)
 ├── main.py            # Script utama (orkestrator) untuk menjalankan Tahap 2, 3, 4
 │
-└── README.md          # File Cara Menjalankan Proyek
+└── README.md
+```
