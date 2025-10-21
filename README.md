@@ -146,5 +146,4 @@ Keterangan singkat:
 ├── decision_tree_model.py # Script Tahap 4 (Pemodelan)
 ├── main.py            # Script utama (orkestrator) untuk menjalankan Tahap 2, 3, 4
 │
-└── README.md
-.
+└── README.md          # File Cara Menjalankan Proyek
